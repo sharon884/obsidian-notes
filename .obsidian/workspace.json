@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Node.js"
             }
+          },
+          {
+            "id": "b749cdaf04ef4b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js vs Browser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Node.js vs Browser"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1ff070f4e111b25b",
@@ -182,10 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff4ac3318670078",
+  "active": "b749cdaf04ef4b06",
   "lastOpenFiles": [
+    "Node.js.md",
+    "Node.js vs Browser.md",
     "Pasted image 20250814131413.png",
-    "Node.js",
-    "Node.js.md"
+    "Untitled",
+    "Node.js"
   ]
 }
