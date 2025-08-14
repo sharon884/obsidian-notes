@@ -10,7 +10,7 @@
     
 - Minimal, low-level, but flexible.
 
-<span style="color: red">
+
 
 const http = require("http");
 
@@ -34,7 +34,7 @@ server.listen(3000, () => {
 
 });
 
-</span>
+
 
 ## **Express Server (built on top of HTTP)**
 
@@ -45,3 +45,28 @@ server.listen(3000, () => {
 - Handles routing, middleware, JSON parsing, error handling, etc.
     
 - Cleaner, faster to build real apps.
+- 
+  
+  const express = require("express");
+
+const app = express();
+const PORT = 3000 ;
+
+app.use(express.json());
+
+app.get("/", (req, res) => {
+
+    res.send("hellow this is your express server");
+
+});
+
+app.get("/hai", ( req, res ) => {
+
+    res.send("hai this is your express server");
+
+})
+
+app.listen(PORT, () => {
+
+    console.log(`server is running on http://localhost:${PORT}`);
+});
