@@ -50,3 +50,27 @@ let message = "That"; // SyntaxError: 'message' has already been declared
 ```
 
 So, we should declare a variable once and then refer to it without `let`.
+
+
+
+## [Constants](https://javascript.info/variables#constants)
+
+To declare a constant (unchanging) variable, use `const` instead of `let`:
+
+```javascript
+const myBirthday = '18.04.1982';
+```
+
+Variables declared using `const` are called “constants”. They cannot be reassigned. An attempt to do so would cause an error:
+
+[](https://javascript.info/variables# "run")
+
+[](https://javascript.info/variables# "open in sandbox")
+
+```javascript
+const myBirthday = '18.04.1982';
+
+myBirthday = '01.01.2001'; // error, can't reassign the constant!
+```
+
+When a programmer is sure that a variable will never change, they can declare it with `const` to guarantee and communicate that fact to everyone.
