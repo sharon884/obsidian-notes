@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Type Conversions.md",
+                "file": "javascript/Basic operators, maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type Conversions"
+              "title": "Basic operators, maths"
             }
           }
         ],
@@ -227,9 +227,10 @@
   },
   "active": "8c64bc2dc04b9efc",
   "lastOpenFiles": [
+    "javascript/Type Conversions.md",
+    "javascript/Basic operators, maths.md",
     "Node.js",
     "javascript/Interaction- alert, prompt, confirm.md",
-    "javascript/Type Conversions.md",
     "javascript/Data types.md",
     "javascript/Variables.md",
     "javascript/use strict.md",
