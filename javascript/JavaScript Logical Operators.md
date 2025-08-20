@@ -107,3 +107,43 @@ Order of execution:
         
     
     `null ?? "Default" // "Default"`
+
+
+# 🔑 JavaScript Logical Operators Cheat Sheet
+
+### **1. AND (`&&`)**
+
+- Returns the **first falsy** value.
+    
+- If none are falsy → returns the **last truthy** value.
+    
+
+👉 Examples:
+
+`true && "Hello"   // "Hello" 0 && "Hello"      // 0 "Hi" && 123       // 123`
+
+---
+
+### **2. OR (`||`)**
+
+- Returns the **first truthy** value.
+    
+- If none are truthy → returns the **last falsy** value.
+    
+
+👉 Examples:
+
+`"Hi" || "Hello"   // "Hi" "" || "Hello"     // "Hello" 0 || null || 42   // 42`
+
+---
+
+### **3. Nullish Coalescing (`??`)**
+
+- Returns the **right-hand value only if left is `null` or `undefined`**.
+    
+- Otherwise → returns the left value.
+    
+
+👉 Examples:
+
+`null ?? "Default"      // "Default" undefined ?? "Yes"     // "Yes" 0 ?? "Default"         // 0 "" ?? "Default"        // ""`
