@@ -68,3 +68,42 @@ Order of execution:
     
 4. `??` (Nullish coalescing)
 
+
+
+# Operator Precedence (Highest → Lowest)
+
+1. **`!` (NOT)**
+    
+    - Runs first
+        
+    - Converts truthy/falsy → boolean opposite
+        
+    
+    `!true // false`
+    
+2. **`&&` (AND)**
+    
+    - Runs before OR and Nullish
+        
+    - Stops at first falsy (or last truthy)
+        
+    
+    `true && false // false`
+    
+3. **`||` (OR)**
+    
+    - Runs after AND
+        
+    - Stops at first truthy (or last falsy)
+        
+    
+    `false || "JS" // "JS"`
+    
+4. **`??` (Nullish Coalescing)**
+    
+    - Runs last (lowest precedence)
+        
+    - Only checks for `null` or `undefined`
+        
+    
+    `null ?? "Default" // "Default"`
