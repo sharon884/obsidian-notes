@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Basic operators, maths.md",
+                "file": "javascript/JavaScript Logical Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic operators, maths"
+              "title": "JavaScript Logical Operators"
             }
           }
         ],
@@ -227,8 +227,9 @@
   },
   "active": "8c64bc2dc04b9efc",
   "lastOpenFiles": [
-    "javascript/Type Conversions.md",
     "javascript/Basic operators, maths.md",
+    "javascript/JavaScript Logical Operators.md",
+    "javascript/Type Conversions.md",
     "Node.js",
     "javascript/Interaction- alert, prompt, confirm.md",
     "javascript/Data types.md",
