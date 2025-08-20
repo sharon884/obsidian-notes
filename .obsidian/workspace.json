@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/The  switch  statement.md",
+                "file": "javascript/Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The  switch  statement"
+              "title": "Functions"
             }
           }
         ],
@@ -227,8 +227,9 @@
   },
   "active": "8c64bc2dc04b9efc",
   "lastOpenFiles": [
-    "javascript/Basic operators, maths.md",
     "javascript/The  switch  statement.md",
+    "javascript/Functions.md",
+    "javascript/Basic operators, maths.md",
     "javascript/Java script loops  - while, do while, for loop ;.md",
     "javascript/JavaScript Logical Operators.md",
     "javascript/Type Conversions.md",
