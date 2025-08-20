@@ -95,3 +95,7 @@ Functions are objects → can be stored, passed, returned.
 |**Name**|Has a name|Can be anonymous or named|Always anonymous|
 |**this**|Own `this`|Own `this`|Inherits from outer scope|
 |**Syntax**|`function f() {}`|`let f = function() {}`|`let f = () => {}`|
+
+
+
+![[Pasted image 20250820191225.png]]
