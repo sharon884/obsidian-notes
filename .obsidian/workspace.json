@@ -55,32 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Constructor & new.md",
+                "file": "javascript/Optional Chaining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Constructor & new"
+              "title": "Optional Chaining"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "1ff070f4e111b25b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20c3f57238c5de4b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -153,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "javascript/Optional Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Optional Chaining"
             }
           },
           {
@@ -199,20 +184,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "javascript/Optional Chaining.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Optional Chaining"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20c3f57238c5de4b",
+  "active": "8c64bc2dc04b9efc",
   "lastOpenFiles": [
-    "Node.js/Node.js.md",
     "javascript/Constructor & new.md",
+    "javascript/Optional Chaining.md",
+    "javascript/Untitled.md",
+    "Node.js/Node.js.md",
     "javascript/Object methods - this.md",
     "javascript/Garbage collection cheet sheet.md",
     "Pasted image 20250821131406.png",
