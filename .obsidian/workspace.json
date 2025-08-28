@@ -67,16 +67,24 @@
             "id": "aa5a7d78dc59cf06",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "61feb812999da725",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -222,8 +230,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa5a7d78dc59cf06",
+  "active": "70c21aa71d2f60d8",
   "lastOpenFiles": [
+    "object-connections.md",
     "javascript/Constructor & new.md",
     "javascript/Symbol.md",
     "javascript/Optional Chaining.md",
