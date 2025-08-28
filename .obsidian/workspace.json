@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Symbol"
             }
+          },
+          {
+            "id": "aa5a7d78dc59cf06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Symbol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Symbol"
+              "title": "Backlinks"
             }
           },
           {
@@ -201,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -210,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c64bc2dc04b9efc",
+  "active": "aa5a7d78dc59cf06",
   "lastOpenFiles": [
     "javascript/Constructor & new.md",
     "javascript/Symbol.md",
