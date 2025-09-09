@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/js hard level array questions.md",
+                "file": "javascript/JSON.stringify() Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js hard level array questions"
+              "title": "JSON.stringify() Cheat Sheet"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/js hard level array questions.md",
+                "file": "javascript/JSON.stringify() Cheat Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for js hard level array questions"
+              "title": "Backlinks for JSON.stringify() Cheat Sheet"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
-    "javascript/js medium level array questions.md",
     "javascript/js hard level array questions.md",
+    "javascript/JSON.stringify() Cheat Sheet.md",
+    "javascript/js medium level array questions.md",
     "javascript/js easy array questions.md",
     "javascript/Commonly Used JavaScript Math Methods.md",
     "object-connections.md",
@@ -282,7 +283,6 @@
     "javascript/Interaction- alert, prompt, confirm.md",
     "javascript/Functions.md",
     "javascript/Data types.md",
-    "javascript/Coding Style.md",
     "Node.js",
     "javascript",
     "Untitled",
