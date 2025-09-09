@@ -87,12 +87,14 @@
             "id": "747c3707e4631242",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "javascript/Commonly Used JavaScript Math Methods.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Commonly Used JavaScript Math Methods"
             }
           }
         ],
@@ -169,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "javascript/Commonly Used JavaScript Math Methods.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Commonly Used JavaScript Math Methods"
             }
           },
           {
@@ -244,6 +247,7 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
+    "javascript/Commonly Used JavaScript Math Methods.md",
     "object-connections.md",
     "javascript/Constructor & new.md",
     "javascript/Symbol.md",
@@ -281,7 +285,6 @@
     "Node.js/what is application level middleware.md",
     "javascript",
     "Node.js/HTTP server & Express server.md",
-    "Node.js/Node.js vs Browser.md",
     "Untitled",
     "Node.js"
   ]
