@@ -82,9 +82,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "747c3707e4631242",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70c21aa71d2f60d8",
+  "active": "747c3707e4631242",
   "lastOpenFiles": [
     "object-connections.md",
     "javascript/Constructor & new.md",
