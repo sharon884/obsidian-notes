@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/What is Cron job.md",
+                "file": "javascript/what is window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Cron job"
+              "title": "what is window"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/What is Cron job.md",
+                "file": "javascript/what is window.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is Cron job"
+              "title": "Backlinks for what is window"
             }
           },
           {
@@ -247,6 +247,9 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
+    "javascript/Event propagtion & three phases.md",
+    "javascript/what is window.md",
+    "object-connections.md",
     "Node.js/What is Cron job.md",
     "javascript/Dom & Bom.md",
     "javascript/Methods to Interact with the DOM in JavaScript.md",
@@ -270,9 +273,6 @@
     "javascript/Commonly Used JavaScript Math Methods.md",
     "javascript/Coding Style.md",
     "javascript/Basic operators, maths.md",
-    "javascript/Numbers.md",
-    "javascript/JS Object methods.md",
-    "javascript/js hard level array questions.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
