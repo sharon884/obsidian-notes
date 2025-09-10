@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Numbers.md",
+                "file": "javascript/Shallow Copy vs Deep Copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numbers"
+              "title": "Shallow Copy vs Deep Copy"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Numbers.md",
+                "file": "javascript/Shallow Copy vs Deep Copy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Numbers"
+              "title": "Backlinks for Shallow Copy vs Deep Copy"
             }
           },
           {
@@ -247,42 +247,42 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
-    "javascript/JS Object methods.md",
-    "javascript/Numbers.md",
-    "javascript/JavaScript Object Cheat Sheet (Practice Version).md",
+    "javascript/Pass by Value vs Pass by Reference in JavaScript.md",
+    "javascript/Shallow Copy vs Deep Copy.md",
+    "javascript/JavaScript Memory & Object Cheat Sheet.md",
     "javascript/JSON.stringify() Cheat Sheet.md",
+    "javascript/Object references and copying.md",
+    "javascript/The  switch  statement.md",
+    "javascript/Type Conversions.md",
+    "javascript/Data types.md",
+    "javascript/Functions.md",
+    "javascript/Garbage collection cheet sheet.md",
+    "javascript/Garbage collection document.md",
+    "javascript/Interaction- alert, prompt, confirm.md",
+    "javascript/Java script loops  - while, do while, for loop ;.md",
+    "javascript/JavaScript Logical Operators.md",
+    "javascript/js easy array questions.md",
+    "javascript/JavaScript Object Cheat Sheet (Practice Version).md",
+    "javascript/Constructor & new.md",
+    "javascript/Commonly Used JavaScript Math Methods.md",
+    "javascript/Coding Style.md",
+    "javascript/Basic operators, maths.md",
+    "javascript/Numbers.md",
+    "javascript/JS Object methods.md",
     "javascript/js hard level array questions.md",
     "javascript/js medium level array questions.md",
-    "javascript/js easy array questions.md",
-    "javascript/Commonly Used JavaScript Math Methods.md",
     "object-connections.md",
-    "javascript/Constructor & new.md",
     "javascript/Symbol.md",
-    "javascript/Optional Chaining.md",
-    "javascript/Untitled.md",
-    "Node.js/Node.js.md",
-    "javascript/Object methods - this.md",
-    "javascript/Garbage collection cheet sheet.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
-    "javascript/Garbage collection document.md",
-    "javascript/JavaScript Memory & Object Cheat Sheet.md",
     "Pasted image 20250821123110.png",
     "Pasted image 20250821123044.png",
     "Pasted image 20250821122906.png",
     "Pasted image 20250821122759.png",
     "Pasted image 20250821122705.png",
     "Pasted image 20250821122608.png",
-    "javascript/Object references and copying.md",
     "Pasted image 20250821120704.png",
     "Pasted image 20250821120535.png",
-    "javascript/Variables.md",
-    "javascript/use strict.md",
-    "javascript/Type Conversions.md",
-    "javascript/The  switch  statement.md",
-    "javascript/Objects.md",
-    "javascript/JavaScript Logical Operators.md",
-    "javascript/Java script loops  - while, do while, for loop ;.md",
     "Node.js",
     "javascript",
     "Untitled",
