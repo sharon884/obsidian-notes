@@ -49,3 +49,170 @@ Rounds to the nearest integer: `3.1` becomes `3`, `3.6` becomes `4`. In th
 Removes anything after the decimal point without rounding: `3.1` becomes `3`, `-1.1` becomes `-1`.
 
 Here’s the table to summarize the differences between them:
+
+
+## 1️⃣ **`isNaN()`**
+
+**Purpose:**
+
+- Checks whether a value is **“Not a Number” (NaN)**.
+    
+- Returns **true** if the value is NaN, otherwise **false**.
+    
+
+### Syntax:
+
+`isNaN(value)`
+
+### Examples:
+
+`isNaN(123);        // false → 123 is a number
+isNaN("123");      // false → "123" can be converted to number
+isNaN("hello");    // true → "hello" cannot be converted to number isNaN(NaN);        // true → NaN itself`
+
+**Key Note:**
+
+- `isNaN` first tries to **convert the value to a number** before checking.
+    
+- To strictly check if something is NaN, use `Number.isNaN(value)` (does not coerce).
+    
+
+`Number.isNaN("hello"); // false Number.isNaN(NaN);     // true`
+
+---
+
+## 2️⃣ **`isFinite()`**
+
+**Purpose:**
+
+- Checks whether a value is a **finite number** (not `Infinity`, `-Infinity`, or `NaN`).
+    
+- Returns **true** if finite, otherwise **false**.
+    
+
+### Syntax:
+
+`isFinite(value)`
+
+### Examples:
+
+`isFinite(123);       // true → finite 
+isFinite("123");     // true → string converted to number
+isFinite(Infinity);  // false → not finite 
+isFinite(-Infinity); // false → not finite 
+isFinite(NaN);       // false → NaN is not finite
+isFinite("hello");   // false → cannot convert to number`
+
+**Key Note:**
+
+- Like `isNaN`, `isFinite` **coerces strings** to numbers first.
+    
+- To strictly check a number, use `Number.isFinite(value)` (does not coerce).
+    
+
+`Number.isFinite("123"); // false Number.isFinite(123);   // true`
+
+---
+
+### 3️⃣ **Quick Comparison**
+
+|Function|Checks|Coerces to number?|Example|
+|---|---|---|---|
+|`isNaN(value)`|Whether **not a number**|✅ Yes|isNaN("hello") → true|
+|`Number.isNaN()`|Strictly **NaN only**|❌ No|Number.isNaN("hello") → false|
+|`isFinite(value)`|Whether **finite number**|✅ Yes|isFinite("123") → true|
+|`Number.isFinite()`|Strictly finite number|❌ No|Number.isFinite("123") → false|
+
+---
+
+💡 **Summary:**
+
+- `isNaN` → checks “not a number”
+    
+- `isFinite` → checks “finite number”
+    
+- Use `Number.isNaN` / `Number.isFinite` for **strict checks** without type coercion
+
+
+## 1️⃣ **`parseInt()`**
+
+**Purpose:**
+
+- Converts a **string** into an **integer** (whole number).
+    
+- Ignores any non-numeric characters after the number.
+    
+
+### Syntax:
+
+`parseInt(string, radix)`
+
+- `string` → the value to convert
+    
+- `radix` → optional, base of number system (default is 10)
+    
+
+### Examples:
+
+`parseInt("123");        // 123 
+parseInt("123.45");     // 123 → only integer part
+parseInt("10abc");      // 10 → stops parsing at non-number
+parseInt("abc10");      // NaN → starts with non-number 
+parseInt("11", 2);      // 3 → binary string converted to decimal`
+
+**Key Notes:**
+
+- Returns **NaN** if the string does not start with a number.
+    
+- Ignores decimal part (truncates to integer).
+    
+
+---
+
+## 2️⃣ **`parseFloat()`**
+
+**Purpose:**
+
+- Converts a **string** into a **floating-point number** (decimal allowed).
+    
+
+### Syntax:
+
+`parseFloat(string)`
+
+### Examples:
+
+`parseFloat("123");        // 123 
+parseFloat("123.45");     // 123.45 → keeps decimal
+parseFloat("10.5abc");    // 10.5 → stops at first invalid character parseFloat("abc10.5");    // NaN → starts with non-number`
+
+**Key Notes:**
+
+- Returns **NaN** if the string does not start with a number.
+    
+- Preserves decimal part.
+    
+
+---
+
+## 3️⃣ **Quick Comparison**
+
+|Function|Converts to|Keeps decimal?|Example|
+|---|---|---|---|
+|`parseInt()`|Integer|❌ No|"123.45" → 123|
+|`parseFloat()`|Floating number|✅ Yes|"123.45" → 123.45|
+
+---
+
+### 4️⃣ **Tip**
+
+- Both functions **ignore trailing non-numeric characters**.
+    
+- Both return **NaN** if the string does not start with a numeric character.
+    
+
+---
+
+💡 **Example Combined:**
+
+`let a = "150px"; console.log(parseInt(a));   // 150 console.log(parseFloat(a)); // 150  let b = "12.75kg"; console.log(parseInt(b));   // 12 console.log(parseFloat(b)); // 12.75`
