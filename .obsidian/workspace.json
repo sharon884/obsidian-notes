@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/what is window.md",
+                "file": "javascript/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is window"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/what is window.md",
+                "file": "javascript/Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for what is window"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
-    "javascript/Event propagtion & three phases.md",
     "javascript/what is window.md",
+    "javascript/Untitled 1.md",
+    "javascript/Event propagtion & three phases.md",
     "object-connections.md",
     "Node.js/What is Cron job.md",
     "javascript/Dom & Bom.md",
@@ -272,7 +273,6 @@
     "javascript/Constructor & new.md",
     "javascript/Commonly Used JavaScript Math Methods.md",
     "javascript/Coding Style.md",
-    "javascript/Basic operators, maths.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
