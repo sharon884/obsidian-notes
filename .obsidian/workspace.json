@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Shallow Copy vs Deep Copy.md",
+                "file": "javascript/Methods to Interact with the DOM in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shallow Copy vs Deep Copy"
+              "title": "Methods to Interact with the DOM in JavaScript"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Shallow Copy vs Deep Copy.md",
+                "file": "javascript/Methods to Interact with the DOM in JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shallow Copy vs Deep Copy"
+              "title": "Backlinks for Methods to Interact with the DOM in JavaScript"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
-    "javascript/Pass by Value vs Pass by Reference in JavaScript.md",
     "javascript/Shallow Copy vs Deep Copy.md",
+    "javascript/Methods to Interact with the DOM in JavaScript.md",
+    "javascript/Pass by Value vs Pass by Reference in JavaScript.md",
     "javascript/JavaScript Memory & Object Cheat Sheet.md",
     "javascript/JSON.stringify() Cheat Sheet.md",
     "javascript/Object references and copying.md",
@@ -272,7 +273,6 @@
     "javascript/js hard level array questions.md",
     "javascript/js medium level array questions.md",
     "object-connections.md",
-    "javascript/Symbol.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
