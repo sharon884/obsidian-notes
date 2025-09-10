@@ -5,13 +5,13 @@
 These methods act as a bridge between JavaScript and the DOM, allowing us to **interact with and manipulate HTML elements** — for example, changing their content, applying styles, updating attributes, or adding event listeners.”
 
 
-|Method|Selector Type|Returns|Live/Static|Example|
-|---|---|---|---|---|
-|`getElementById`|Only ID|Single element|N/A|`document.getElementById("id")`|
-|`getElementsByClassName`|Class|HTMLCollection|Live|`document.getElementsByClassName("class")`|
-|`getElementsByTagName`|Tag|HTMLCollection|Live|`document.getElementsByTagName("p")`|
-|`querySelector`|Any CSS selector|First element|Static|`document.querySelector(".class")`|
-|`querySelectorAll`|Any CSS selector|NodeList (all matches)|Static|`document.querySelectorAll("p.class")`|
+| Method                   | Selector Type    | Returns                | Live/Static | Example                                    |
+| ------------------------ | ---------------- | ---------------------- | ----------- | ------------------------------------------ |
+| `getElementById`         | Only ID          | Single element         | N/A         | `document.getElementById("id")`            |
+| `getElementsByClassName` | Class            | HTMLCollection         | Live        | `document.getElementsByClassName("class")` |
+| `getElementsByTagName`   | Tag              | HTMLCollection         | Live        | `document.getElementsByTagName("p")`       |
+| `querySelector`          | Any CSS selector | First element          | Static      | `document.querySelector(".class")`         |
+| `querySelectorAll`       | Any CSS selector | NodeList (all matches) | Static      | `document.querySelectorAll("p.class")`     |
 
 ### 🔹 1. Element Selection
 
