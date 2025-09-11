@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Untitled 1.md",
+                "file": "javascript/The  switch  statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "The  switch  statement"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Untitled 1.md",
+                "file": "javascript/The  switch  statement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for The  switch  statement"
             }
           },
           {
@@ -247,8 +247,12 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
-    "javascript/what is window.md",
+    "javascript/Type Conversions.md",
+    "javascript/Untitled.md",
     "javascript/Untitled 1.md",
+    "javascript/Variables.md",
+    "javascript/use strict.md",
+    "javascript/what is window.md",
     "javascript/Event propagtion & three phases.md",
     "object-connections.md",
     "Node.js/What is Cron job.md",
@@ -260,7 +264,6 @@
     "javascript/JSON.stringify() Cheat Sheet.md",
     "javascript/Object references and copying.md",
     "javascript/The  switch  statement.md",
-    "javascript/Type Conversions.md",
     "javascript/Data types.md",
     "javascript/Functions.md",
     "javascript/Garbage collection cheet sheet.md",
@@ -270,9 +273,6 @@
     "javascript/JavaScript Logical Operators.md",
     "javascript/js easy array questions.md",
     "javascript/JavaScript Object Cheat Sheet (Practice Version).md",
-    "javascript/Constructor & new.md",
-    "javascript/Commonly Used JavaScript Math Methods.md",
-    "javascript/Coding Style.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",

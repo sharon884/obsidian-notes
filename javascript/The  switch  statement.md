@@ -75,12 +75,12 @@ console.log("Try again"); }
 
 📋 **Quick Reference**
 
-|Keyword|Meaning|
-|---|---|
-|`switch`|Starts the block with an expression to test|
-|`case`|Checks if expression matches the case value|
-|`break`|Exits the switch after a match|
-|`default`|Executes if no case matches|
-|Fall-through|If `break` is missing, execution continues to next case|
+| Keyword      | Meaning                                                 |
+| ------------ | ------------------------------------------------------- |
+| `switch`     | Starts the block with an expression to test             |
+| `case`       | Checks if expression matches the case value             |
+| `break`      | Exits the switch after a match                          |
+| `default`    | Executes if no case matches                             |
+| Fall-through | If `break` is missing, execution continues to next case |
 
 
