@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/The  switch  statement.md",
+                "file": "javascript/Lexical Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The  switch  statement"
+              "title": "Lexical Environment"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/The  switch  statement.md",
+                "file": "javascript/Lexical Environment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The  switch  statement"
+              "title": "Backlinks for Lexical Environment"
             }
           },
           {
@@ -247,6 +247,10 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
+    "javascript/Hoisting.md",
+    "javascript/Lexical Environment.md",
+    "javascript/javaScript work flow.md",
+    "javascript/The  switch  statement.md",
     "javascript/Type Conversions.md",
     "javascript/Untitled.md",
     "javascript/Untitled 1.md",
@@ -263,16 +267,12 @@
     "javascript/JavaScript Memory & Object Cheat Sheet.md",
     "javascript/JSON.stringify() Cheat Sheet.md",
     "javascript/Object references and copying.md",
-    "javascript/The  switch  statement.md",
     "javascript/Data types.md",
     "javascript/Functions.md",
     "javascript/Garbage collection cheet sheet.md",
     "javascript/Garbage collection document.md",
     "javascript/Interaction- alert, prompt, confirm.md",
     "javascript/Java script loops  - while, do while, for loop ;.md",
-    "javascript/JavaScript Logical Operators.md",
-    "javascript/js easy array questions.md",
-    "javascript/JavaScript Object Cheat Sheet (Practice Version).md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
