@@ -89,3 +89,53 @@ Here:
 > 
 > Closures are mainly used to **maintain private state, create data encapsulation, and preserve values across function calls**, especially in callbacks, event handlers, and modules.
 
+
+
+example of closure
+
+function ac () {
+    let balance = 1000;
+
+    function deduct () {
+        console.log(balance - 100);
+    }
+
+    return deduct;
+}
+
+let myAc = ac(); 
+myAc();           
+
+
+## ⚙ Step-by-step execution flow
+
+---
+
+### 🟢 Step ① — `ac()` is called
+
+- **Memory (Lexical Environment) created for `ac`:**
+    
+    `ac Lexical Environment:    balance → 1000    deduct  → function deduct() {...}`
+    
+- `ac()` finishes running
+    
+- Instead of deleting everything, JavaScript returns the **inner function `deduct`**
+    
+- `myAc` now stores the **reference to `deduct`**
+    
+- Because `deduct` still **uses `balance`**, the `balance` variable is **kept alive in memory** (this is the closure part)
+    
+
+---
+
+### 🟢 Step ② — `myAc()` is called
+
+- `myAc` actually is the inner function `deduct`
+    
+- When `deduct()` runs, it looks for `balance`
+    
+- It **doesn’t find `balance` inside itself**, so it goes **up to its outer lexical environment (ac)**  
+    and finds `balance = 1000`
+    
+- Then it runs `console.log(balance - 100)` → outputs `900`
+
