@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Lexical Environment.md",
+                "file": "javascript/Closure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lexical Environment"
+              "title": "Closure"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Lexical Environment.md",
+                "file": "javascript/Closure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lexical Environment"
+              "title": "Backlinks for Closure"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "747c3707e4631242",
   "lastOpenFiles": [
-    "javascript/Hoisting.md",
     "javascript/Lexical Environment.md",
+    "javascript/Closure.md",
+    "javascript/Hoisting.md",
     "javascript/javaScript work flow.md",
     "javascript/The  switch  statement.md",
     "javascript/Type Conversions.md",
@@ -272,7 +273,6 @@
     "javascript/Garbage collection cheet sheet.md",
     "javascript/Garbage collection document.md",
     "javascript/Interaction- alert, prompt, confirm.md",
-    "javascript/Java script loops  - while, do while, for loop ;.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
