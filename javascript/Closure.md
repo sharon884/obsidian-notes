@@ -45,9 +45,11 @@ Here:
 
 Here:
 
-- Each time `counter()` runs, it **remembers the old `count`**.
+- Each time `counter()` runs, it **remembers the old `count `**.
     
 - This works only because `count` is preserved inside the closure.
+`
+```
     
 
 ---
