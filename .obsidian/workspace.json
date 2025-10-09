@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/🧩 2️⃣ Types of Data Structures.md",
+                "file": "DSA/Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧩 2️⃣ Types of Data Structures"
+              "title": "Linked List"
             }
           }
         ],
@@ -287,8 +287,9 @@
   },
   "active": "fc48d087e5b21ff9",
   "lastOpenFiles": [
-    "What is DATA strture?.md",
     "DSA/🧩 2️⃣ Types of Data Structures.md",
+    "DSA/Linked List.md",
+    "What is DATA strture?.md",
     "Time and Space Complexity.md",
     "DSA/Algoritham.md",
     "DSA/What is DSA.md",
@@ -315,7 +316,6 @@
     "javascript/Pass by Value vs Pass by Reference in JavaScript.md",
     "javascript/JavaScript Memory & Object Cheat Sheet.md",
     "javascript/JSON.stringify() Cheat Sheet.md",
-    "javascript/Object references and copying.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
