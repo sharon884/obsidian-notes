@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA-basics/DSA/Linked List.md",
+                "file": "DSA-basics/DSA/🧩 2️⃣ Types of Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked List"
+              "title": "🧩 2️⃣ Types of Data Structures"
             }
           }
         ],
@@ -285,8 +285,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a789a52d02d1f317",
+  "active": "fc48d087e5b21ff9",
   "lastOpenFiles": [
+    "DSA-basics/DSA/Linked List.md",
     "DSA-basics/problems/find a value from LinkedList.md",
     "DSA-basics/problems/Untitled.md",
     "DSA-basics/problems/caluculate the size of Linkedlist.md",
@@ -300,7 +301,6 @@
     "DSA-basics/Welcome.md",
     "DSA-basics",
     "DSA-basics/DSA/🧩 2️⃣ Types of Data Structures.md",
-    "DSA-basics/DSA/Linked List.md",
     "What is DATA strture?.md",
     "Time and Space Complexity.md",
     "DSA-basics/DSA/Algoritham.md",

@@ -75,10 +75,6 @@ In **Data Structures**, we mainly have **two categories:**
 |Non-Primitive|Linear|Sequential|Array, Stack, Queue, Linked List|
 |Non-Primitive|Non-Linear|Hierarchical / Network|Tree, Graph|
 
----
-
-✅ **So yes, you are 100% correct, Champ.**  
-You’ve clearly understood that:
 
 > Primitive → single value → stored directly  
 > Non-Primitive → multiple values → divided into Linear & Non-Linear → stored by reference
