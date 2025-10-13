@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Linked List.md",
+                "file": "DSA-basics/DSA/Linked List.md",
                 "mode": "source",
                 "source": false
               },
@@ -285,18 +285,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fc48d087e5b21ff9",
+  "active": "a789a52d02d1f317",
   "lastOpenFiles": [
-    "DSA/🧩 2️⃣ Types of Data Structures.md",
-    "DSA/Linked List.md",
+    "DSA-basics/LinkedList.md",
+    "DSA-basics/Welcome.md",
+    "DSA-basics",
+    "DSA-basics/DSA/🧩 2️⃣ Types of Data Structures.md",
+    "DSA-basics/DSA/Linked List.md",
     "What is DATA strture?.md",
     "Time and Space Complexity.md",
-    "DSA/Algoritham.md",
-    "DSA/What is DSA.md",
+    "DSA-basics/DSA/Algoritham.md",
+    "DSA-basics/DSA/What is DSA.md",
     "javascript/Closure.md",
     "Untitled",
     "What is DSA",
-    "DSA",
+    "DSA-basics/DSA",
     "javascript/Lexical Environment.md",
     "javascript/Hoisting.md",
     "javascript/javaScript work flow.md",
@@ -314,8 +317,6 @@
     "javascript/Methods to Interact with the DOM in JavaScript.md",
     "javascript/Shallow Copy vs Deep Copy.md",
     "javascript/Pass by Value vs Pass by Reference in JavaScript.md",
-    "javascript/JavaScript Memory & Object Cheat Sheet.md",
-    "javascript/JSON.stringify() Cheat Sheet.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
