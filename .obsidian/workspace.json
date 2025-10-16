@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what is memmory allocation and memmory leak.md",
+                "file": "DSA week 2/what is sorting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is memmory allocation and memmory leak"
+              "title": "what is sorting"
             }
           },
           {
@@ -302,6 +302,8 @@
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
     "what is memmory allocation and memmory leak.md",
+    "DSA week 2/what is sorting.md",
+    "DSA week 2",
     "javascript/Untitled 1.md",
     "Time and Space Complexity.md",
     "DSA-basics/DSA/🧩 2️⃣ Types of Data Structures.md",
@@ -332,7 +334,6 @@
     "javascript/Type Conversions.md",
     "javascript/Untitled.md",
     "javascript/Variables.md",
-    "javascript/use strict.md",
     "Pasted image 20250821131406.png",
     "Pasted image 20250821131220.png",
     "Pasted image 20250821123110.png",
