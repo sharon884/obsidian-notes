@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/Sorting Algorithms Cheat Sheet.md",
+                "file": "DSA week 2/Bubble sort example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting Algorithms Cheat Sheet"
+              "title": "Bubble sort example"
             }
           },
           {
@@ -301,10 +301,13 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
-    "DSA week 2/Selection Sort  cheat sheet.md",
-    "DSA week 2/Sorting Algorithms Cheat Sheet.md",
-    "DSA week 2/Selection Sort.md",
     "DSA week 2/Bubble Sort Algorithm.md",
+    "DSA week 2/Selection Sort.md",
+    "DSA week 2/selection sort example.md",
+    "DSA week 2/Bubble sort example.md",
+    "DSA week 2/Untitled.md",
+    "DSA week 2/Sorting Algorithms Cheat Sheet.md",
+    "DSA week 2/Selection Sort  cheat sheet.md",
     "DSA week 2/What is Bubble Sort.md",
     "DSA week 2/basic sorting algorithms.md",
     "DSA week 2/what is sorting.md",
@@ -328,9 +331,6 @@
     "DSA-basics/Welcome.md",
     "DSA-basics",
     "What is DATA strture?.md",
-    "DSA-basics/DSA/Algoritham.md",
-    "DSA-basics/DSA/What is DSA.md",
-    "javascript/Closure.md",
     "Untitled",
     "What is DSA",
     "DSA-basics/DSA",
