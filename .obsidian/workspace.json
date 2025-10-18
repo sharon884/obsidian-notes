@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/sorting algortihms code structure/selection sort example.md",
+                "file": "DSA week 2/Stack Data Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "selection sort example"
+              "title": "Stack Data Structure"
             }
           },
           {
@@ -301,9 +301,12 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
-    "DSA week 2/sorting algortihms code structure/Merge sort example.md",
+    "DSA week 2/Quick Sort Cheat Sheet.md",
+    "DSA week 2/Stack Data Structure.md",
+    "DSA week 2/sorting algortihms code structure/Quick sort example.md",
     "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
     "DSA week 2/sorting algortihms code structure/selection sort example.md",
+    "DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "DSA week 2/Bubble Sort Algorithm.md",
     "DSA week 2/Insertion Sort — Cheat Sheet.md",
@@ -326,11 +329,8 @@
     "DSA-basics/problems/Untitled.md",
     "DSA-basics/problems/caluculate the size of Linkedlist.md",
     "DSA-basics/problems/add element in front of the linkedlist.md",
-    "DSA-basics/problems/make array linkedlist.md",
-    "DSA-basics/problems/LinkedList.md",
     "DSA-basics/problems",
     "DSA-basics/Untitled",
-    "DSA-basics/Untitled.md",
     "DSA-basics",
     "Untitled",
     "What is DSA",
