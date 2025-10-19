@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/Stack Data Structure/Introduction to Stack Data Structure.md",
+                "file": "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Stack Data Structure"
+              "title": "what is stack overflow and stack underflow"
             }
           },
           {
@@ -301,8 +301,14 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
-    "DSA week 2/Stack Data Structure/Stack Data Structure.md",
+    "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
+    "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
+    "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
+    "DSA week 2/sorting algortihms code structure/Merge sort example.md",
+    "DSA week 2/sorting algortihms code structure/Quick sort example.md",
     "DSA week 2/Stack Data Structure/Introduction to Stack Data Structure.md",
+    "DSA week 2/sorting algortihms code structure/selection sort example.md",
+    "DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA-basics/DSA/What is DSA.md",
     "javascript/Basic operators, maths.md",
     "DSA-basics/Untitled.md",
@@ -313,11 +319,6 @@
     "DSA week 2/Sorting algorithm concepts",
     "DSA week 2/Stack Data Structure",
     "DSA week 2/Sorting algorithm concepts/Quick Sort Cheat Sheet.md",
-    "DSA week 2/sorting algortihms code structure/Quick sort example.md",
-    "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
-    "DSA week 2/sorting algortihms code structure/selection sort example.md",
-    "DSA week 2/sorting algortihms code structure/Merge sort example.md",
-    "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "DSA week 2/Sorting algorithm concepts/Bubble Sort Algorithm.md",
     "DSA week 2/Sorting algorithm concepts/Insertion Sort — Cheat Sheet.md",
     "DSA week 2/sorting algortihms code structure",
@@ -330,7 +331,6 @@
     "DSA week 2/Sorting algorithm concepts/Sorting Algorithms.md",
     "what is memmory allocation and memmory leak.md",
     "DSA week 2",
-    "javascript/Untitled 1.md",
     "DSA-basics/problems",
     "DSA-basics/Untitled",
     "DSA-basics",
