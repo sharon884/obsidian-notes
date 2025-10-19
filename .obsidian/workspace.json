@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
+                "file": "DSA week 2/Queue data structure/Queue Data Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is a Queue in Real Life?"
+              "title": "Queue Data Structure"
             }
           },
           {
@@ -301,8 +301,11 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
-    "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
+    "DSA week 2/DSA with real-world systems.md",
+    "DSA week 2/Queue data structure/Queue Data Structure.md",
+    "DSA week 2/Queue data structure/QUEUE CHEAT SHEET.md",
     "DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
+    "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
     "DSA week 2/Queue data structure",
     "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
     "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
@@ -317,7 +320,6 @@
     "DSA-basics/DSA/Linked List.md",
     "DSA-basics/DSA/Algoritham.md",
     "DSA-basics/DSA/🧩 2️⃣ Types of Data Structures.md",
-    "DSA week 2/Untitled.md",
     "DSA week 2/Sorting algorithm concepts",
     "DSA week 2/Stack Data Structure",
     "DSA week 2/Sorting algorithm concepts/Quick Sort Cheat Sheet.md",
@@ -329,8 +331,6 @@
     "DSA week 2/Sorting algorithm concepts/Selection Sort  cheat sheet.md",
     "DSA week 2/Sorting algorithm concepts/What is Bubble Sort.md",
     "DSA week 2/Sorting algorithm concepts/basic sorting algorithms.md",
-    "DSA week 2/Sorting algorithm concepts/what is sorting.md",
-    "DSA week 2/Sorting algorithm concepts/Sorting Algorithms.md",
     "DSA week 2",
     "DSA-basics/problems",
     "DSA-basics/Untitled",
