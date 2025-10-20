@@ -5,4 +5,4 @@ A Hash table is defined as a data structure used to insert, look up, and remove 
 
 ![Components-of-Hashing](https://media.geeksforgeeks.org/wp-content/uploads/20240508162721/Components-of-Hashing.webp)
 
-Hash Function and Table
+Hash Function and Tabledd![Components-of-Hashing](https://media.geeksforgeeks.org/wp-content/uploads/20240508162721/Components-of-Hashing.webp)

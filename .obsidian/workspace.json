@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/Hash table/Hash Table Data Structure.md",
+                "file": "DSA week 2/Hash table/Advantages of Hashing in Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hash Table Data Structure"
+              "title": "Advantages of Hashing in Data Structures"
             }
           },
           {
@@ -301,9 +301,11 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
-    "DSA week 2/Hash table/What does a Hash Function do?.md",
-    "DSA week 2/Hash table/Hash Table Data Structure.md",
+    "DSA week 2/Hash table/What is Hashing?.md",
     "DSA week 2/Hash table/What is a Hash Table?.md",
+    "DSA week 2/Hash table/Advantages of Hashing in Data Structures.md",
+    "DSA week 2/Hash table/Hash Table Data Structure.md",
+    "DSA week 2/Hash table/What does a Hash Function do?.md",
     "DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA week 2/Hash table",
     "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
@@ -338,8 +340,6 @@
     "DSA-basics/javascript/Basic operators, maths.md",
     "DSA-basics/Untitled.md",
     "DSA-basics/DSA/Linked List.md",
-    "DSA-basics/DSA/Algoritham.md",
-    "DSA-basics/DSA/Types of Data Structures.md",
     "DSA week 2/Sorting algorithm concepts",
     "DSA week 2/Stack Data Structure",
     "DSA week 2/sorting algortihms code structure",
