@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/DSA with real-world systems.md",
+                "file": "DSA week 2/sorting algortihms code structure/selection sort example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA with real-world systems"
+              "title": "selection sort example"
             }
           },
           {
@@ -299,8 +299,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a789a52d02d1f317",
+  "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
+    "DSA week 2/DSA with real-world systems.md",
     "object-connections.md",
     "DSA-basics/DSA/what is memmory allocation and memmory leak.md",
     "DSA-basics/DSA/What is DATA strture?.md",
@@ -318,7 +319,6 @@
     "DSA-basics/javascript/js images",
     "DSA week 2/Queue data structure/Queue in Real Systems (like Node.js).md",
     "DSA week 2/Queue data structure/Queue Data Structure.md",
-    "DSA week 2/DSA with real-world systems.md",
     "DSA week 2/Queue data structure/QUEUE CHEAT SHEET.md",
     "DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
     "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
