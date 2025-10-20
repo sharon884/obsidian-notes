@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/sorting algortihms code structure/Merge sort example.md",
+                "file": "DSA week 2/Hash table/What does a Hash Function do?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge sort example"
+              "title": "What does a Hash Function do?"
             }
           },
           {
@@ -301,6 +301,10 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
+    "DSA week 2/Hash table/What is a Hash Table?.md",
+    "DSA week 2/Hash table/What does a Hash Function do?.md",
+    "DSA week 2/sorting algortihms code structure/Merge sort example.md",
+    "DSA week 2/Hash table",
     "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
     "DSA week 2/sorting algortihms code structure/selection sort example.md",
     "DSA week 2/DSA with real-world systems.md",
@@ -326,7 +330,6 @@
     "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
     "DSA week 2/Queue data structure",
     "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
-    "DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA week 2/sorting algortihms code structure/Quick sort example.md",
     "DSA week 2/Stack Data Structure/Introduction to Stack Data Structure.md",
     "DSA week 2/Stack Data Structure/Stack Data Structure.md",
@@ -339,13 +342,10 @@
     "DSA week 2/Sorting algorithm concepts",
     "DSA week 2/Stack Data Structure",
     "DSA week 2/Sorting algorithm concepts/Quick Sort Cheat Sheet.md",
-    "DSA week 2/Sorting algorithm concepts/Bubble Sort Algorithm.md",
-    "DSA week 2/Sorting algorithm concepts/Insertion Sort — Cheat Sheet.md",
     "DSA week 2/sorting algortihms code structure",
     "DSA week 2",
     "DSA-basics/problems",
     "DSA-basics/Untitled",
-    "DSA-basics",
-    "Untitled"
+    "DSA-basics"
   ]
 }
