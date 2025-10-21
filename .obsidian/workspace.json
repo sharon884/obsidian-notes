@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/Stack Data Structure/stack data structure example.md",
+                "file": "DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stack data structure example"
+              "title": "Stack using linkedlist"
             }
           },
           {
@@ -301,8 +301,10 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
+    "DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
+    "DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
+    "DSA week 2/Stack Data Structure/Stack implementations",
     "DSA week 2/Stack Data Structure/Introduction to Stack Data Structure.md",
-    "DSA week 2/Stack Data Structure/stack data structure example.md",
     "DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
     "DSA week 2/DSA with real-world systems.md",
@@ -339,13 +341,11 @@
     "DSA week 2/Queue data structure",
     "DSA week 2/sorting algortihms code structure/Quick sort example.md",
     "DSA-basics/DSA/What is DSA.md",
-    "DSA-basics/javascript/Basic operators, maths.md",
     "DSA week 2/Sorting algorithm concepts",
     "DSA week 2/Stack Data Structure",
     "DSA week 2/sorting algortihms code structure",
     "DSA week 2",
     "DSA-basics/problems",
-    "DSA-basics/Untitled",
-    "DSA-basics"
+    "DSA-basics/Untitled"
   ]
 }
