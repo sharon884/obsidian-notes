@@ -39,3 +39,5 @@ Here we can see that at every step, the stack maintains an increasing order from
  Here we can see that at every step, the stack maintains a decreasing order from bottom to top.
 
 ![Monotonic-Decreasing-Stack-6_1.webp](https://media.geeksforgeeks.org/wp-content/uploads/20250905121034912225/Monotonic-Decreasing-Stack-6_1.webp)![Monotonic-Decreasing-Stack-6_1.webp](https://media.geeksforgeeks.org/wp-content/uploads/20250905121034912225/Monotonic-Decreasing-Stack-6_1.webp)
+
+basically monotonic stacks a special stack data structure its storing data or element in order. we can store data in accending order or decending also. its use full for finding the  minimum value , max value, kth value from a stack.

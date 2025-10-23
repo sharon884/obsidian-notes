@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/Hash table/Advantages of Hashing in Data Structures.md",
+                "file": "DSA week 2/Stack Data Structure/Monotonic Stack/Monotonic Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advantages of Hashing in Data Structures"
+              "title": "Monotonic Stack"
             }
           },
           {
@@ -301,9 +301,10 @@
   },
   "active": "ab46bdf3e4fe2293",
   "lastOpenFiles": [
-    "DSA week 2/Hash table/Hash Table Data Structure.md",
-    "DSA week 2/Hash table/What does a Hash Function do?.md",
     "DSA week 2/Hash table/What is a Hash Table?.md",
+    "DSA week 2/Hash table/Hash Table Data Structure.md",
+    "DSA week 2/Hash table/Advantages of Hashing in Data Structures.md",
+    "DSA week 2/Hash table/What does a Hash Function do?.md",
     "DSA week 2/Hash table/What is Hashing?.md",
     "DSA week 2/Queue data structure/Queue Data Structure.md",
     "DSA week 2/Queue data structure/Queue in Real Systems (like Node.js).md",
@@ -323,7 +324,6 @@
     "DSA week 2/sorting algortihms code structure/selection sort example.md",
     "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "DSA week 2/Sorting algorithm concepts/Bubble Sort Algorithm.md",
-    "DSA week 2/Hash table/Advantages of Hashing in Data Structures.md",
     "DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA week 2/Hash table",
     "object-connections.md",
