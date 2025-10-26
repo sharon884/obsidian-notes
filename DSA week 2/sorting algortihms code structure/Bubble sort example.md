@@ -24,3 +24,6 @@ for ( let i = 0; i< ar.length-1; i++ ) {
 };
 
 console.log(bubble(ar));
+
+
+we can make bubble sort more effiecent thorugh the swapped flage varible;
