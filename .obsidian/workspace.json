@@ -115,32 +115,14 @@
             "id": "008ff4cf787beebf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time and Space Complexity.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Time and Space Complexity"
-            }
-          },
-          {
-            "id": "fc48d087e5b21ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA-basics/DSA/🧩 2️⃣ Types of Data Structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🧩 2️⃣ Types of Data Structures"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -299,14 +281,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ab46bdf3e4fe2293",
+  "active": "a789a52d02d1f317",
   "lastOpenFiles": [
-    "DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
     "DSA week 2/Stack Data Structure/Stack implementations/min stack.md",
+    "DSA week 2/Stack Data Structure/Stack Data Structure.md",
+    "DSA week 2/Hash table implementation/Hash table with collision handiling.md",
+    "DSA week 2/Hash table implementation",
+    "DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
     "DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
     "DSA week 2/DSA with real-world systems.md",
     "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
-    "DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA week 2/Stack Data Structure/Introduction to Stack Data Structure.md",
     "DSA week 2/Stack Data Structure/Monotonic Stack/Monotonic Stack.md",
     "DSA week 2/sorting algortihms code structure/Quick sort example.md",
@@ -329,23 +313,21 @@
     "DSA week 2/Sorting algorithm concepts/Bubble Sort Algorithm.md",
     "DSA week 2/Hash table",
     "object-connections.md",
-    "DSA-basics/DSA/what is memmory allocation and memmory leak.md",
-    "DSA-basics/javascript/js images/Pasted image 20250821131406.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821131220.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821123110.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821123044.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821122906.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821122759.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821122705.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821122608.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821120704.png",
-    "DSA-basics/javascript/js images/Pasted image 20250821120535.png",
-    "DSA-basics/javascript/js images",
+    "javascript/js images/Pasted image 20250821131406.png",
+    "javascript/js images/Pasted image 20250821131220.png",
+    "javascript/js images/Pasted image 20250821123110.png",
+    "javascript/js images/Pasted image 20250821123044.png",
+    "javascript/js images/Pasted image 20250821122906.png",
+    "javascript/js images/Pasted image 20250821122759.png",
+    "javascript/js images/Pasted image 20250821122705.png",
+    "javascript/js images/Pasted image 20250821122608.png",
+    "javascript/js images/Pasted image 20250821120704.png",
+    "javascript/js images/Pasted image 20250821120535.png",
+    "javascript/js images",
     "DSA week 2/Queue data structure",
     "DSA week 2/Sorting algorithm concepts",
     "DSA week 2/Stack Data Structure",
     "DSA week 2/sorting algortihms code structure",
-    "DSA week 2",
-    "DSA-basics/problems"
+    "DSA week 2"
   ]
 }
