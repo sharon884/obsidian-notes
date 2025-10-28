@@ -115,10 +115,14 @@
             "id": "008ff4cf787beebf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DSA week 2/Queue data structure/Queue Data Structure.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Queue Data Structure"
             }
           }
         ],
@@ -281,21 +285,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a789a52d02d1f317",
+  "active": "008ff4cf787beebf",
   "lastOpenFiles": [
+    "DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
+    "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
     "DSA week 2/Stack Data Structure/Stack implementations/min stack.md",
     "DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA week 2/Hash table implementation/Hash table with collision handiling.md",
     "DSA week 2/Hash table implementation",
     "DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
-    "DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
     "DSA week 2/DSA with real-world systems.md",
     "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
     "DSA week 2/Stack Data Structure/Introduction to Stack Data Structure.md",
     "DSA week 2/Stack Data Structure/Monotonic Stack/Monotonic Stack.md",
     "DSA week 2/sorting algortihms code structure/Quick sort example.md",
     "DSA week 2/sorting algortihms code structure/Merge sort example.md",
-    "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
     "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "DSA week 2/Hash table/What is a Hash Table?.md",
     "DSA week 2/Hash table/Hash Table Data Structure.md",
