@@ -71,3 +71,6 @@ Queue can be implemented using following data structures:
 ### Advantages of Queue
 
 ![Advantages-of-Queue](https://media.geeksforgeeks.org/wp-content/uploads/20250917152106069252/Advantages-of-Queue.webp)
+
+
+node js asychchnous task hadling the queue also an example for the queue using applications 
