@@ -27,3 +27,6 @@ It consists of nodes, where the topmost node is called the ****root****, and ev
 ### Why Tree is considered a non-linear data structure?
 
 Data in a tree is not stored sequentially (i.e., not in a linear order). Instead, it is organized across multiple levels, forming a hierarchical structure. Because of this arrangement, a tree is classified as a non-linear data structure.
+
+
+
