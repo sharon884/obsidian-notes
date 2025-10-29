@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/Tree Data Structure.md",
+                "file": "DSA week 3/Tree Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tree Data Structure"
+              "title": "Tree Terminology"
             }
           }
         ],
@@ -287,8 +287,9 @@
   },
   "active": "008ff4cf787beebf",
   "lastOpenFiles": [
-    "DSA week 3/basic documentation about the tree.md",
     "DSA week 3/Tree Data Structure.md",
+    "DSA week 3/Tree Terminology.md",
+    "DSA week 3/basic documentation about the tree.md",
     "DSA week 3/what is Tree.md",
     "DSA week 3",
     "DSA week 2/Queue data structure/Queue Data Structure.md",
@@ -314,7 +315,6 @@
     "DSA week 2/Queue data structure/Queue in Real Systems (like Node.js).md",
     "DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
     "DSA week 2/Queue data structure/QUEUE CHEAT SHEET.md",
-    "DSA week 2/Sorting algorithm concepts/basic sorting algorithms.md",
     "DSA week 2/Stack Data Structure/Monotonic Stack",
     "DSA week 2/Stack Data Structure/Stack implementations",
     "DSA week 2/Hash table",
