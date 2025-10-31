@@ -117,16 +117,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
+                "file": "DSA week 3/Tree/what is Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder)"
+              "title": "what is Tree"
+            }
+          },
+          {
+            "id": "a9bb70d364404a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA week 3/Binary search tree/Binary search tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary search tree"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -285,18 +299,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "008ff4cf787beebf",
+  "active": "a9bb70d364404a2b",
   "lastOpenFiles": [
+    "DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
+    "DSA week 3/Binary search tree/Binary search tree.md",
+    "DSA week 3/Binary search tree",
+    "DSA week 3/Tree/what is Tree.md",
+    "DSA week 3/DFS & BFS",
+    "DSA week 3/Tree",
+    "DSA week 3/Tree/Tree Terminology Quiz.md",
+    "DSA week 3/Tree/Tree Terminology.md",
+    "DSA week 3/Tree/Tree Data Structure.md",
     "DSA week 3/implemenations/Binary tree implementation.md",
-    "DSA week 3/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
     "DSA week 3/implemenations/General Tree implementation.md",
-    "DSA week 3/Tree Terminology Quiz.md",
     "DSA week 3/implemenations",
     "Untitled",
-    "DSA week 3/Tree Terminology.md",
-    "DSA week 3/Tree Data Structure.md",
-    "DSA week 3/basic documentation about the tree.md",
-    "DSA week 3/what is Tree.md",
+    "DSA week 3/Tree/basic documentation about the tree.md",
     "DSA week 3",
     "DSA week 2/Queue data structure/Queue Data Structure.md",
     "DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
@@ -316,7 +334,6 @@
     "DSA week 2/Hash table/What is a Hash Table?.md",
     "DSA week 2/Hash table/Hash Table Data Structure.md",
     "DSA week 2/Hash table/Advantages of Hashing in Data Structures.md",
-    "DSA week 2/Hash table/What does a Hash Function do?.md",
     "DSA week 2/Stack Data Structure/Monotonic Stack",
     "DSA week 2/Stack Data Structure/Stack implementations",
     "DSA week 2/Hash table",
@@ -329,9 +346,6 @@
     "javascript/js images/Pasted image 20250821122705.png",
     "javascript/js images/Pasted image 20250821122608.png",
     "javascript/js images/Pasted image 20250821120704.png",
-    "javascript/js images/Pasted image 20250821120535.png",
-    "javascript/js images",
-    "DSA week 2/Queue data structure",
-    "DSA week 2/Sorting algorithm concepts"
+    "javascript/js images/Pasted image 20250821120535.png"
   ]
 }
