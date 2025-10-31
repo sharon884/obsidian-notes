@@ -285,8 +285,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "008ff4cf787beebf",
+  "active": "a789a52d02d1f317",
   "lastOpenFiles": [
+    "Untitled",
     "DSA week 3/Tree Terminology.md",
     "DSA week 3/Tree Terminology Quiz.md",
     "DSA week 3/Tree Data Structure.md",
@@ -314,7 +315,6 @@
     "DSA week 2/Hash table/What does a Hash Function do?.md",
     "DSA week 2/Hash table/What is Hashing?.md",
     "DSA week 2/Queue data structure/Queue in Real Systems (like Node.js).md",
-    "DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
     "DSA week 2/Stack Data Structure/Monotonic Stack",
     "DSA week 2/Stack Data Structure/Stack implementations",
     "DSA week 2/Hash table",
