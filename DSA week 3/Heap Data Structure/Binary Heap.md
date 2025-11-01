@@ -14,8 +14,8 @@ A Binary Heap is a ****Complete Binary Tree****. A binary heap is typically rep
 - The root element will be at arr[0].
 - The below table shows indices of other nodes for the ith node, i.e., arr[i]:
 
-|   |   |
-|---|---|
-|arr[(i-1)/2]|Returns the parent node|
-|arr[(2*i)+1]|Returns the left child node|
-|arr[(2*i)+2]|Returns the right child node|
+|              |                              |
+| ------------ | ---------------------------- |
+| arr[(i-1)/2] | Returns the parent node      |
+| arr[(2*i)+1] | Returns the left child node  |
+| arr[(2*i)+2] | Returns the right child node |
