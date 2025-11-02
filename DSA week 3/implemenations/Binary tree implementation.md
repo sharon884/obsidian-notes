@@ -1,24 +1,29 @@
-
- class Binary {
-    constructor (value) {
-	
+class BinaryNode {
+    constructor(value) {
+        this.value = value;
+        this.left = null;
+        this.right =null;
     };
+    
+    insertLeft( value ) {
+        const newNode = new BinaryNode(value);
+        this.left = newNode;
+        return newNode;
+    };
+    
+    insertRight(value) {
+        const newNode = new BinaryNode(value);
+        this.right = newNode;
+        return newNode;
+    }
 };
 
+const root = new BinaryNode(10);
+const left = root.insertLeft(20);
+const right = root.insertRight(30);
 
-let a = new Binary(100);
-let b = new Binary(200);
-let c = new Binary(300);
-let d = new Binary(400);
-let e = new Binary(500);
-let f = new Binary(600);
-let g = new Binary(700);
-
-a.left = b;
-a.right = c;
-b.left = d;
-b.right = e;
-c.left = f;
-c.right = g;
-
+left.insertLeft(40);
+right.insertLeft(50);
+right.insertLeft(60);
+right.insertRight(70);
 
