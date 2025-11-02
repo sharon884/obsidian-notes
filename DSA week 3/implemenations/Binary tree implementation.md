@@ -1,9 +1,7 @@
 
  class Binary {
     constructor (value) {
-        this.node = value;
-        this.left = null;
-        this.right = null;
+	
     };
 };
 
