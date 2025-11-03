@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/Binary tree implementation.md",
+                "file": "DSA week 3/implemenations/Binary serch tree with iterative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary tree implementation"
+              "title": "Binary serch tree with iterative"
             }
           }
         ],
@@ -301,13 +301,15 @@
   },
   "active": "a9bb70d364404a2b",
   "lastOpenFiles": [
-    "DSA week 3/implemenations/General Tree implementation.md",
     "DSA week 3/implemenations/Binary tree implementation.md",
+    "DSA week 3/implemenations/Binary serch tree with iterative.md",
+    "DSA week 3/implemenations/General Tree implementation.md",
+    "DSA week 3/implemenations/Binary search tree implementation with recursively.md",
+    "DSA week 3/Binary search tree/Binary search tree.md",
     "DSA week 3/Heap Data Structure/Binary Heap.md",
     "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
     "DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
     "DSA week 3/Heap Data Structure",
-    "DSA week 3/Binary search tree/Binary search tree.md",
     "DSA week 3/Binary search tree",
     "DSA week 3/Tree/what is Tree.md",
     "DSA week 3/DFS & BFS",
@@ -333,8 +335,6 @@
     "DSA week 2/Stack Data Structure/Monotonic Stack/Monotonic Stack.md",
     "DSA week 2/sorting algortihms code structure/Quick sort example.md",
     "DSA week 2/sorting algortihms code structure/Merge sort example.md",
-    "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
-    "DSA week 2/Hash table/What is a Hash Table?.md",
     "DSA week 2/Stack Data Structure/Monotonic Stack",
     "DSA week 2/Stack Data Structure/Stack implementations",
     "javascript/js images/Pasted image 20250821131406.png",
