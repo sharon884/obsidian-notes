@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
+                "file": "DSA week 3/implemenations/Binary tree implementations/binary tree with post and pre traverse implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "max heap implementation"
+              "title": "binary tree with post and pre traverse implementation"
             }
           }
         ],
@@ -301,8 +301,13 @@
   },
   "active": "a9bb70d364404a2b",
   "lastOpenFiles": [
-    "DSA week 3/implemenations/Heap implementations/min heap implementation.md",
+    "DSA week 3/implemenations/Binary tree implementations/Binary tree implementation.md",
+    "DSA week 3/implemenations/Binary tree implementations/binary tree with post and pre traverse implementation.md",
+    "DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implementation with recursively.md",
+    "DSA week 3/implemenations/Binary serch tree implementations/Binary serch tree with iterative.md",
+    "DSA week 3/Binary search tree/Binary search tree.md",
     "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
+    "DSA week 3/implemenations/Heap implementations/min heap implementation.md",
     "DSA week 3/Heap Data Structure/Binary Heap.md",
     "DSA week 3/implemenations/Heap implementations",
     "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
@@ -315,10 +320,6 @@
     "DSA week 3/implemenations/Binary serch tree implementations",
     "DSA week 3/implemenations/General tree implementations",
     "DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
-    "DSA week 3/implemenations/Binary serch tree implementations/Binary serch tree with iterative.md",
-    "DSA week 3/implemenations/Binary tree implementations/Binary tree implementation.md",
-    "DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implementation with recursively.md",
-    "DSA week 3/Binary search tree/Binary search tree.md",
     "DSA week 3/Heap Data Structure",
     "DSA week 3/Binary search tree",
     "DSA week 3/Tree/what is Tree.md",
@@ -336,7 +337,6 @@
     "DSA week 2/Stack Data Structure/Stack implementations/min stack.md",
     "DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA week 2/Hash table implementation/Hash table with collision handiling.md",
-    "DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
     "javascript/js images/Pasted image 20250821131406.png",
     "javascript/js images/Pasted image 20250821131220.png",
     "javascript/js images/Pasted image 20250821123110.png",
