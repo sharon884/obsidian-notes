@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/General tree implementations/find min and max from a general tree.md",
+                "file": "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "find min and max from a general tree"
+              "title": "max heap implementation"
             }
           }
         ],
@@ -301,8 +301,13 @@
   },
   "active": "a9bb70d364404a2b",
   "lastOpenFiles": [
-    "DSA week 3/implemenations/General tree implementations/General tree post order , preorder traverse.md",
+    "DSA week 3/implemenations/Heap implementations/min heap implementation.md",
+    "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
+    "DSA week 3/Heap Data Structure/Binary Heap.md",
+    "DSA week 3/implemenations/Heap implementations",
+    "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
     "DSA week 3/implemenations/General tree implementations/find min and max from a general tree.md",
+    "DSA week 3/implemenations/General tree implementations/General tree post order , preorder traverse.md",
     "DSA week 3/implemenations/General tree implementations/General Tree implementation.md",
     "DSA week 3/implemenations/General tree implementations/General tree count calculating through recursion.md",
     "DSA week 3/implemenations/General tree implementations/calculating sum of the nodes in general tree.md",
@@ -314,8 +319,6 @@
     "DSA week 3/implemenations/Binary tree implementations/Binary tree implementation.md",
     "DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implementation with recursively.md",
     "DSA week 3/Binary search tree/Binary search tree.md",
-    "DSA week 3/Heap Data Structure/Binary Heap.md",
-    "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
     "DSA week 3/Heap Data Structure",
     "DSA week 3/Binary search tree",
     "DSA week 3/Tree/what is Tree.md",
@@ -327,7 +330,6 @@
     "DSA week 3/implemenations",
     "Untitled",
     "DSA week 3/Tree/basic documentation about the tree.md",
-    "DSA week 3",
     "DSA week 2/Queue data structure/Queue Data Structure.md",
     "DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
     "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
@@ -335,8 +337,6 @@
     "DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA week 2/Hash table implementation/Hash table with collision handiling.md",
     "DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
-    "DSA week 2/DSA with real-world systems.md",
-    "DSA week 2/Stack Data Structure/what is stack overflow and stack underflow.md",
     "javascript/js images/Pasted image 20250821131406.png",
     "javascript/js images/Pasted image 20250821131220.png",
     "javascript/js images/Pasted image 20250821123110.png",
