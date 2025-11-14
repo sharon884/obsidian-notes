@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/Binary tree implementations/binary tree with post order , preorder , inorder.md",
+                "file": "DSA week 3/Binary search tree/Binary search tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "binary tree with post order , preorder , inorder"
+              "title": "Binary search tree"
             }
           }
         ],
@@ -301,18 +301,18 @@
   },
   "active": "a9bb70d364404a2b",
   "lastOpenFiles": [
-    "DSA week 3/implemenations/Binary tree implementations/binary tree with post and pre traverse implementation.md",
-    "DSA week 3/implemenations/Binary tree implementations/binary tree with post order , preorder , inorder.md",
     "DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
+    "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
+    "DSA week 3/Heap Data Structure/Binary Heap.md",
+    "DSA week 3/implemenations/Heap implementations/min heap implementation.md",
+    "DSA week 3/implemenations/Binary tree implementations/binary tree with post order , preorder , inorder.md",
+    "DSA week 3/implemenations/Binary tree implementations/binary tree with post and pre traverse implementation.md",
     "DSA week 3/implemenations/Binary tree implementations/Binary tree implementation.md",
     "DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implementation with recursively.md",
     "DSA week 3/implemenations/Binary serch tree implementations/Binary serch tree with iterative.md",
     "DSA week 3/Binary search tree/Binary search tree.md",
     "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
-    "DSA week 3/implemenations/Heap implementations/min heap implementation.md",
-    "DSA week 3/Heap Data Structure/Binary Heap.md",
     "DSA week 3/implemenations/Heap implementations",
-    "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
     "DSA week 3/implemenations/General tree implementations/find min and max from a general tree.md",
     "DSA week 3/implemenations/General tree implementations/General tree post order , preorder traverse.md",
     "DSA week 3/implemenations/General tree implementations/General Tree implementation.md",
