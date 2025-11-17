@@ -7,6 +7,44 @@ class Heap {
     
     getParrent(index) {
         return Math.floor((index-1)/2);
+
+￼￼
+￼
+Pass-Go
+￼
+Port
+￼
+youtube
+￼
+Gmail
+￼
+GitHub
+￼
+Ace
+￼
+Gem
+￼
+Linkedin
+￼
+Drive
+￼
+meet
+￼
+progrmiz
+￼
+leetcode
+￼
+resume builder
+￼
+portfolio
+￼
+whatsapp
+￼
+Noukri
+￼
+Add site
+￼
+￼
     };
     
     getleft(index){
@@ -46,6 +84,10 @@ class Heap {
 };
 
 
+
+
+
+
 const heap = new Heap();
 heap.insert(10)
 heap.insert(109)
@@ -56,4 +98,3 @@ heap.display()
 
 
 
-g
