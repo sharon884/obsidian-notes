@@ -53,4 +53,36 @@ summary
 
 
 
+* Dynamically typed vs Statically typed (JS vs TS)
 
+
+
+### **Dynamically Typed (JS)**
+
+- **Type is determined at runtime.**
+    
+- Flexible — a variable can change types during execution.
+    
+- Errors may appear **while the program runs**.
+    
+
+`let a = 10;     // a is number a = "Hello";    // a is now string → allowed in JS`
+
+### **Statically Typed (TS)**
+
+- **Type is determined at compile-time.**
+    
+- Variable types are fixed and must match the declared type.
+    
+- Errors are caught **before execution**, during compilation.
+    
+
+`let a: number = 10; a = "Hello";  // ❌ Error: Type 'string' not assignable to 'number'`
+
+---
+
+### ✅ **Key Analogy**
+
+- **Dynamic typing = “ask the engine what it is while running”** → flexible, but may break at runtime.
+    
+- **Static typing = “declare the type in advance”** → safer, errors caught before running.
