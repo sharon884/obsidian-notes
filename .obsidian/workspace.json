@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/React/React Importing and Exporting Components.md",
+                "file": "Interview/React/React JSX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Importing and Exporting Components"
+              "title": "React JSX"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "Interview/React/React ?.md",
     "Interview/React/React Importing and Exporting Components.md",
+    "Interview/React/React JSX.md",
+    "Interview/React/React ?.md",
     "Interview/Javascript.md",
     "Interview/React/Components (function vs class ).md",
     "MERN + DSA/React.md",
@@ -343,7 +344,6 @@
     "DSA week 3/Binary search tree/Binary search tree.md",
     "DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
     "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
-    "DSA week 3/Heap Data Structure/Binary Heap.md",
     "DSA week 3/implemenations/Heap implementations",
     "DSA week 3/implemenations/Binary tree implementations",
     "DSA week 3/implemenations/Binary serch tree implementations",
