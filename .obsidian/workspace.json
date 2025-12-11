@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 2/Sorting algorithm concepts/what is sorting.md",
+                "file": "DSA-basics/problems/LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is sorting"
+              "title": "LinkedList"
             }
           }
         ],
@@ -315,16 +315,17 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "DSA-basics/problems/add element in front of the linkedlist.md",
+    "DSA-basics/problems/caluculate the size of Linkedlist.md",
+    "DSA-basics/DSA/Linked List.md",
+    "DSA week 2/Sorting algorithm concepts/what is sorting.md",
     "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "DSA-basics/DSA/What is DATA strture?.md",
     "DSA-basics/DSA/what is memmory allocation and memmory leak.md",
     "DSA-basics/DSA/What is DSA.md",
     "DSA-basics/DSA/Types of Data Structures.md",
     "DSA-basics/DSA/Time and Space Complexity.md",
-    "DSA-basics/DSA/Linked List.md",
     "DSA-basics/DSA/Algoritham.md",
-    "DSA-basics/problems/add element in front of the linkedlist.md",
-    "DSA-basics/problems/caluculate the size of Linkedlist.md",
     "DSA-basics/problems/find a value from LinkedList.md",
     "DSA-basics/problems/LinkedList.md",
     "DSA-basics/problems/make array linkedlist.md",
@@ -342,7 +343,6 @@
     "MERN + DSA/JS.md",
     "javascript/What is Strict Mode?.md",
     "MERN + DSA/DSA.md",
-    "MERN + DSA/Node Js.md",
     "MERN + DSA",
     "DSA week 3/implemenations/Heap implementations",
     "DSA week 3/implemenations/Binary tree implementations",
