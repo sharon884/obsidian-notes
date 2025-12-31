@@ -22,3 +22,12 @@ A ****weighted graph**** is a graph where each edge has a number (weight) that
 ![w](https://media.geeksforgeeks.org/wp-content/uploads/20250220130152745825/w-660.webp)
 
 
+### 2. Unweighted Graphs
+
+An ****unweighted graph**** is a graph where all edges are treated equally, with no extra values like distance or cost.
+
+  
+
+![dense](https://media.geeksforgeeks.org/wp-content/uploads/20250220130157480056/dense.webp)
+
+
