@@ -33,3 +33,15 @@ Let's assume there are n vertices in the graph So, create a 2D matrix adjMat[n][
 - There is an edge between vertex 1 and vertex 0,so we set mat[1][0] = 1.
 - There is an edge between vertex 2 and vertex 0,so we set mat[2][0] = 1.
 - There is an edge between vertex 1 and vertex 2,so we set mat[1][2] = 1.
+
+
+### Representation of Directed Graph as Adjacency list:
+
+![file](https://media.geeksforgeeks.org/wp-content/uploads/20251028182030033227/file.webp)
+
+- We use an array of lists (or vector of lists) to represent the graph.
+- The size of the array is equal to the number of vertices (here, 3).
+- Each index in the array represents a vertex.
+- Vertex 0 has no neighbours
+- Vertex 1 has two neighbours (0 and 2).
+- Vertex 2 has 1 neighbours (0).
