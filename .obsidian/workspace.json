@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/Graph/Graph Algorithms.md",
+                "file": "DSA week 3/Theroy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph Algorithms"
+              "title": "Theroy"
             }
           }
         ],
@@ -315,12 +315,13 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "DSA week 3/Graph/Graph Algorithms.md",
+    "DSA week 3/Theroy.md",
     "DSA week 3/implemenations/Heap implementations/min heap implementation.md",
     "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
     "DSA week 3/Trie/Trie implementation.md",
     "DSA week 3/Trie/Trie Data Structure.md",
     "DSA week 3/Graph/Representation of Graph.md",
-    "DSA week 3/Graph/Graph Algorithms.md",
     "DSA week 3/Heap Data Structure/Binary Heap.md",
     "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
     "DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implemention with traversal.md",
@@ -343,7 +344,6 @@
     "DSA week 2/sorting algortihms code structure/Quick sort example.md",
     "DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA week 2/sorting algortihms code structure/Insertion sort example.md",
-    "DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "Interview/React",
     "Interview",
     "MERN + DSA",
