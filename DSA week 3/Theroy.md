@@ -12,3 +12,11 @@ It is not about sorting or simple storage, but about **representing hierarchy in
 
 
 What is a BST (Binary Search Tree) -   A Binary Search Tree (BST) is a special type of binary tree in which each node has at most two children, and it follows an ordering property: for every node, all values in the left subtree are smaller than the node’s value, and all values in the right subtree are greater. This property is applied recursively to all nodes.
+
+
+
+Directed Graph :A **directed graph** is a graph in which **each edge has a direction**, meaning it goes from one vertex to another specific vertex.
+
+If there is an edge **A → B**, traversal is allowed only from **A to B**, not from **B to A**, unless a separate edge **B → A** exists.
+
+A directed graph **may contain cycles or may be acyclic**, depending on how the vertices are connected.
