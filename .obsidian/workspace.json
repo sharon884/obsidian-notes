@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/Grpah/Graph BFS traversal.md",
+                "file": "DSA week 3/implemenations/Grpah/Undirected graph with dfs & bfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph BFS traversal"
+              "title": "Undirected graph with dfs & bfs"
             }
           }
         ],
@@ -316,6 +316,7 @@
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
     "DSA week 3/implemenations/Grpah/DFS Traversal on Graph.md",
+    "DSA week 3/implemenations/Grpah/Undirected graph with dfs & bfs.md",
     "DSA week 3/implemenations/Grpah/Graph BFS traversal.md",
     "DSA week 3/implemenations/Grpah/Undirected Graph.md",
     "DSA week 3/implemenations/Grpah/Directed Graph.md",
@@ -341,7 +342,6 @@
     "DSA week 3/Trie/Trie Data Structure.md",
     "DSA week 3/Graph/Representation of Graph.md",
     "DSA week 3/implemenations/Grpah",
-    "DSA week 3/Graph/Real-Life Applications of Graph Data Structure.md",
     "DSA week 3/Trie",
     "DSA week 3/Graph",
     "DSA week 3/General Tree traversal",
