@@ -20,3 +20,12 @@ Directed Graph :A **directed graph** is a graph in which **each edge has a direc
 If there is an edge **A → B**, traversal is allowed only from **A to B**, not from **B to A**, unless a separate edge **B → A** exists.
 
 A directed graph **may contain cycles or may be acyclic**, depending on how the vertices are connected.
+
+
+### 🔽 Heapify Down
+
+> “Heapify down is used when the heap property is violated at the top, usually after extracting or removing an element, and we need to push the element downward to restore the heap rules.”
+
+### 🔼 Heapify Up
+
+> “Heapify up is used when inserting a new element at the end, and we move it upward until the heap property is satisfied.”
