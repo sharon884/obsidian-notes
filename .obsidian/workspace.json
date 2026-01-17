@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/Heap implementations/Max heap with heapifyUp and heapifyDown.md",
+                "file": "DSA week 3/implemenations/Heap implementations/Minheap with heapifyUp & heapifyDown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max heap with heapifyUp and heapifyDown"
+              "title": "Minheap with heapifyUp & heapifyDown"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "DSA week 3/Theroy.md",
     "DSA week 3/implemenations/Heap implementations/Max heap with heapifyUp and heapifyDown.md",
+    "DSA week 3/implemenations/Heap implementations/Minheap with heapifyUp & heapifyDown.md",
+    "DSA week 3/Theroy.md",
     "DSA week 3/implemenations/Heap implementations/Untitled",
     "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
     "DSA week 3/Trie/Trie implementation.md",
@@ -341,7 +342,6 @@
     "DSA week 3/Tree/what is Tree.md",
     "DSA week 3/Tree/Tree Terminology.md",
     "DSA week 3/Tree/basic documentation about the tree.md",
-    "DSA week 3/Tree/Tree Terminology Quiz.md",
     "DSA week 3/implemenations/Grpah",
     "DSA week 3/Trie",
     "DSA week 3/Graph",
