@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/Heap implementations/Minheap with heapifyUp & heapifyDown.md",
+                "file": "DSA week 3/implemenations/Grpah/DFS Traversal on Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minheap with heapifyUp & heapifyDown"
+              "title": "DFS Traversal on Graph"
             }
           }
         ],
@@ -315,8 +315,8 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "DSA week 3/implemenations/Heap implementations/Max heap with heapifyUp and heapifyDown.md",
     "DSA week 3/implemenations/Heap implementations/Minheap with heapifyUp & heapifyDown.md",
+    "DSA week 3/implemenations/Heap implementations/Max heap with heapifyUp and heapifyDown.md",
     "DSA week 3/Theroy.md",
     "DSA week 3/implemenations/Heap implementations/Untitled",
     "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
