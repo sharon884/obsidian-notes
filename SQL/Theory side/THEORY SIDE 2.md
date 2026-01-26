@@ -1,5 +1,6 @@
 ## SQL vs NoSQL — what does it ACTUALLY mean?
 
+
 ### SQL (PostgreSQL)
 
 - Data stored in **tables**
