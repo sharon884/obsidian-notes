@@ -75,4 +75,63 @@ With DBMS ✅:
 DBMS is the **bridge** between **you** and the **database**.
 
 
+## What is **RDBMS** (Relational DBMS)?
 
+### Simple definition
+
+An **RDBMS** is a **type of DBMS** that stores data in the form of:
+
+- **tables**
+    
+- with **relations** between them
+    
+
+👉 RDBMS = DBMS + **relationships**
+
+### Examples of RDBMS
+
+- MySQL
+    
+- PostgreSQL
+    
+- Oracle
+    
+- SQL Server
+    
+
+### Why “Relational”?
+
+Because:
+
+- Data is stored in **tables**
+    
+- Tables are connected using **keys**
+    
+
+Example:
+
+- `users` table
+    
+- `orders` table  
+    Connected using `user_id`
+    
+
+💡 **Key idea**:  
+RDBMS follows **rules** (relational model) → more powerful & reliable.
+
+
+
+## Difference: **DBMS vs RDBMS**
+
+|Feature|DBMS|RDBMS|
+|---|---|---|
+|Data storage|Files / tables|Tables only|
+|Relationships|❌ Not supported|✅ Supported|
+|Normalization|❌ No|✅ Yes|
+|Primary Key|❌ Not required|✅ Mandatory|
+|Data integrity|Weak|Strong|
+|Example|File system DB|MySQL, PostgreSQL|
+
+### One-line interview answer 💥
+
+> DBMS manages data, whereas RDBMS manages **related data using tables with constraints**.
