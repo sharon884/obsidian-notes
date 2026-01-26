@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
+                "file": "DSA week 3/Heap Data Structure/Heap Data Structure?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "max heap implementation"
+              "title": "Heap Data Structure?"
             }
           }
         ],
@@ -315,14 +315,18 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "DSA week 3/Theroy.md",
+    "DSA week 3/Trie/Trie implementation.md",
+    "DSA week 3/Trie/Trie Data Structure.md",
+    "DSA week 3/Graph/Representation of Graph.md",
+    "DSA week 3/Graph/Real-Life Applications of Graph Data Structure.md",
+    "DSA week 3/Graph/Introduction to Graph Data Structure.md",
+    "DSA week 3/Graph/Graph Algorithms.md",
+    "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
     "DSA week 3/implemenations/Grpah/DFS Traversal on Graph.md",
     "DSA week 3/implemenations/Heap implementations/Minheap with heapifyUp & heapifyDown.md",
     "DSA week 3/implemenations/Heap implementations/Max heap with heapifyUp and heapifyDown.md",
-    "DSA week 3/Theroy.md",
     "DSA week 3/implemenations/Heap implementations/Untitled",
-    "DSA week 3/implemenations/Heap implementations/max heap implementation.md",
-    "DSA week 3/Trie/Trie implementation.md",
-    "DSA week 3/Trie/Trie Data Structure.md",
     "DSA week 3/Tree/Tree Data Structure.md",
     "DSA week 3/implemenations/Grpah/Directed Graph with dfs & bfs.md",
     "DSA week 3/implemenations/Grpah/Undirected graph with dfs & bfs.md",
@@ -338,10 +342,6 @@
     "DSA-basics/problems/make array linkedlist.md",
     "DSA-basics/problems/LinkedList.md",
     "DSA-basics/problems/caluculate the size of Linkedlist.md",
-    "DSA-basics/problems/add element in front of the linkedlist.md",
-    "DSA week 3/Tree/what is Tree.md",
-    "DSA week 3/Tree/Tree Terminology.md",
-    "DSA week 3/Tree/basic documentation about the tree.md",
     "DSA week 3/implemenations/Grpah",
     "DSA week 3/Trie",
     "DSA week 3/Graph",
