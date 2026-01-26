@@ -135,3 +135,4 @@ RDBMS follows **rules** (relational model) → more powerful & reliable.
 ### One-line interview answer 💥
 
 > DBMS manages data, whereas RDBMS manages **related data using tables with constraints**.
+
