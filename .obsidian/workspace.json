@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Theory side/THEORY SIDE 4.md",
+                "file": "SQL/Theory side/THEORY SIDE 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 4"
+              "title": "THEORY SIDE 5"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "SQL/Theory side/THEORY SIDE 3.md",
     "SQL/Theory side/THEORY SIDE 4.md",
+    "SQL/Theory side/THEORY SIDE 5.md",
+    "SQL/Theory side/THEORY SIDE 3.md",
     "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
     "SQL/Theory side/THEORY SIDE 1.md",
     "SQL/Theory side/THEORY SIDE 2.md",
@@ -346,7 +347,6 @@
     "DSA week 3/implemenations/Grpah/Undirected Graph.md",
     "DSA week 3/implemenations/Grpah/Directed Graph.md",
     "DSA-basics/DSA/What is DSA.md",
-    "DSA-basics/DSA/What is DATA strture?.md",
     "DSA week 3/implemenations/Grpah",
     "DSA week 3/Trie",
     "DSA week 3/Graph",
