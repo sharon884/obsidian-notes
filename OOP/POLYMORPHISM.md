@@ -160,11 +160,10 @@ You only need to know this much:
 - **Compile-time polymorphism** → Method overloading (conceptual)
     
 
-👉 For your task, **runtime polymorphism** is enough.
-
 ---
 
-## 8️⃣ Interview-ready one-liner
+##  Interview-ready one-liner
 
 > “Polymorphism allows the same method to behave differently based on the object, enabling flexible and extensible code.”
+
 
