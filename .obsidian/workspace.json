@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/POLYMORPHISM.md",
+                "file": "OOP/4 Pillers/Polymorphism/METHOD OVERLOADING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POLYMORPHISM"
+              "title": "METHOD OVERLOADING"
             }
           }
         ],
@@ -313,11 +313,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b99ba533915d1ceb",
+  "active": "a789a52d02d1f317",
   "lastOpenFiles": [
-    "OOP/INHERITANCE.md",
-    "OOP/POLYMORPHISM.md",
-    "OOP/ENCAPSULATION.md",
+    "OOP/4 Pillers",
+    "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
+    "OOP/4 Pillers/Polymorphism/METHOD OVERLOADING.md",
+    "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
+    "OOP/4 Pillers/Polymorphism",
+    "OOP/4 Pillers/INHERITANCE.md",
+    "OOP/4 Pillers/ENCAPSULATION.md",
     "OOP/CLASS & OBJECT.md",
     "OOP/Object Oriented Programming in JavaScript.md",
     "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
@@ -345,12 +349,8 @@
     "DSA/DSA week 3/Theroy.md",
     "DSA/DSA week 3/Trie/Trie implementation.md",
     "DSA/DSA week 3/Trie/Trie Data Structure.md",
-    "DSA/DSA week 3/Graph/Representation of Graph.md",
-    "DSA/DSA week 3/Graph/Real-Life Applications of Graph Data Structure.md",
-    "DSA/DSA week 3/Graph/Introduction to Graph Data Structure.md",
     "DSA week 3/implemenations/Heap implementations/Untitled",
     "DSA/DSA week 3/implemenations/Grpah",
-    "DSA/DSA week 3/Trie",
     "javascript/js images/Pasted image 20250821131406.png",
     "javascript/js images/Pasted image 20250821131220.png",
     "javascript/js images/Pasted image 20250821123110.png",
