@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/Object Oriented Programming in JavaScript.md",
+                "file": "OOP/INHERITANCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object Oriented Programming in JavaScript"
+              "title": "INHERITANCE"
             }
           }
         ],
@@ -315,8 +315,11 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
+    "OOP/ENCAPSULATION.md",
+    "OOP/INHERITANCE.md",
+    "OOP/CLASS & OBJECT.md",
     "OOP/Object Oriented Programming in JavaScript.md",
+    "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
     "OOP",
     "Interview/Javascript.md",
     "Untitled.md",
@@ -345,9 +348,6 @@
     "DSA/DSA week 3/Graph/Real-Life Applications of Graph Data Structure.md",
     "DSA/DSA week 3/Graph/Introduction to Graph Data Structure.md",
     "DSA/DSA week 3/Graph/Graph Algorithms.md",
-    "DSA/DSA week 3/implemenations/Heap implementations/max heap implementation.md",
-    "DSA/DSA week 3/implemenations/Grpah/DFS Traversal on Graph.md",
-    "DSA/DSA week 3/implemenations/Heap implementations/Minheap with heapifyUp & heapifyDown.md",
     "DSA week 3/implemenations/Heap implementations/Untitled",
     "DSA/DSA week 3/implemenations/Grpah",
     "DSA/DSA week 3/Trie",
