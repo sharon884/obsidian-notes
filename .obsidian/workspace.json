@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/INHERITANCE.md",
+                "file": "OOP/POLYMORPHISM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INHERITANCE"
+              "title": "POLYMORPHISM"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "OOP/ENCAPSULATION.md",
     "OOP/INHERITANCE.md",
+    "OOP/POLYMORPHISM.md",
+    "OOP/ENCAPSULATION.md",
     "OOP/CLASS & OBJECT.md",
     "OOP/Object Oriented Programming in JavaScript.md",
     "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
@@ -347,7 +348,6 @@
     "DSA/DSA week 3/Graph/Representation of Graph.md",
     "DSA/DSA week 3/Graph/Real-Life Applications of Graph Data Structure.md",
     "DSA/DSA week 3/Graph/Introduction to Graph Data Structure.md",
-    "DSA/DSA week 3/Graph/Graph Algorithms.md",
     "DSA week 3/implemenations/Heap implementations/Untitled",
     "DSA/DSA week 3/implemenations/Grpah",
     "DSA/DSA week 3/Trie",
