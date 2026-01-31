@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Theory side/THEORY SIDE 5.md",
+                "file": "SQL/Theory side/THEORY SIDE 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 5"
+              "title": "THEORY SIDE 1"
             }
           }
         ],
@@ -315,8 +315,8 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "SQL/Theory side/THEORY SIDE 4.md",
     "SQL/Theory side/THEORY SIDE 5.md",
+    "SQL/Theory side/THEORY SIDE 4.md",
     "SQL/Theory side/THEORY SIDE 3.md",
     "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
     "SQL/Theory side/THEORY SIDE 1.md",
