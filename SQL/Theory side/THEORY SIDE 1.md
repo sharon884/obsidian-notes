@@ -132,7 +132,7 @@ RDBMS follows **rules** (relational model) → more powerful & reliable.
 |Data integrity|Weak|Strong|
 |Example|File system DB|MySQL, PostgreSQL|
 
-### One-line interview answer 💥
+### One-line interview answer 
 
 > DBMS manages data, whereas RDBMS manages **related data using tables with constraints**.
 
