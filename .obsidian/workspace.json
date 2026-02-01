@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/Solid priciples basic idea.md",
+                "file": "OOP/Abstraction/Abstraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solid priciples basic idea"
+              "title": "Abstraction"
             }
           }
         ],
@@ -313,15 +313,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b99ba533915d1ceb",
+  "active": "a789a52d02d1f317",
   "lastOpenFiles": [
-    "OOP/4 Pillers/Abstraction.md",
+    "OOP/Abstraction",
+    "OOP/Abstraction/INTERFACE.md",
+    "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
+    "OOP/Abstraction/Abstraction.md",
     "OOP/Solid priciples basic idea.md",
     "OOP/4 Pillers/What is Coupling?.md",
-    "OOP/4 Pillers/Polymorphism/INTERFACE.md",
     "OOP/4 Pillers/Polymorphism/METHOD OVERLOADING.md",
     "OOP/4 Pillers",
-    "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
     "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
     "OOP/4 Pillers/Polymorphism",
     "OOP/4 Pillers/INHERITANCE.md",
@@ -345,7 +346,6 @@
     "SQL/Theory side/THEORY SIDE 2.md",
     "SQL/Theory side",
     "SQL/SQL.md",
-    "DSA/DSA week 3/Heap Data Structure/Heap Data Structure?.md",
     "SQL",
     "Untitled 1",
     "Q",
