@@ -68,3 +68,71 @@ It is **not**:
     
 
 ---
+
+
+## Duck Typing
+
+> **Duck typing means: if an object has the required properties or methods, it is treated as that type — without caring about its actual type or class.**
+
+In short:
+
+- ❌ No type declaration required
+    
+- ❌ No interface required
+    
+- ✅ Only **properties/methods matter**
+    
+- ❗ Errors happen **at runtime**, not compile time
+    
+
+---
+## Duck Typing Example (JavaScript)
+
+`function greet(user) {  
+console.log(user.name); }  
+
+greet({ name: "Champ" });   // ✅ works
+
+greet({ age: 25 });         // ❌ runtime error`
+
+Here:
+
+- JS does **not check beforehand**
+    
+- As long as `name` exists → works
+    
+- Missing property → crashes at runtime
+    
+
+This behavior is called **duck typing**.
+
+
+
+
+## Key Difference (one table, done)
+
+| Point            | Duck Typing | Structural Typing |
+| ---------------- | ----------- | ----------------- |
+| Language         | JavaScript  | TypeScript        |
+| Checking time    | Runtime     | Compile time      |
+| Interface needed | ❌ No        | ❌ No              |
+| Safety           | Low         | High              |
+| Error timing     | Late        | Early             |
+
+
+## One-Line Interview Answer 
+
+> **Duck typing checks object behavior at runtime, while structural typing checks object structure at compile time. TypeScript uses structural typing, which behaves like duck typing but is safer.**
+
+---
+
+## Ultra-Short Version
+
+> **Duck typing = “it works if the property exists at runtime.”  
+> Structural typing = “it must exist at compile time.”**
+
+
+
+## One-Line Interview Answer 
+
+> **Duck typing exists in JavaScript at runtime. TypeScript uses structural typing at compile time, which is inspired by duck typing but is not the same.**
