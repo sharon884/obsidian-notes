@@ -136,3 +136,11 @@ This behavior is called **duck typing**.
 ## One-Line Interview Answer 
 
 > **Duck typing exists in JavaScript at runtime. TypeScript uses structural typing at compile time, which is inspired by duck typing but is not the same.**
+
+
+
+<h1>Why TS  not JS </h1>
+
+We prefer TypeScript over JavaScript because JavaScript is dynamically typed, so many errors are detected only at runtime. TypeScript adds static typing, which allows us to catch errors at compile time, leading to better safety and faster debugging.  
+TypeScript also supports OOP concepts like interfaces, access modifiers, and strong class structures, which helps in building and maintaining large-scale applications.  
+For small or simple projects, JavaScript is often sufficient, but for large, scalable, and maintainable codebases, TypeScript is a better choice.
