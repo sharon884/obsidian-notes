@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/THEORY SIDE 1.md",
+                "file": "TypeScript/THEORY SIDE 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 1"
+              "title": "THEORY SIDE 3"
             }
           }
         ],
@@ -315,8 +315,10 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "OOP/4 Pillers/INHERITANCE.md",
+    "TypeScript/THEORY SIDE 2.md",
+    "TypeScript/THEORY SIDE 3.md",
     "TypeScript/THEORY SIDE 1.md",
+    "OOP/4 Pillers/INHERITANCE.md",
     "TypeScript",
     "OOP/Abstraction/Abstraction.md",
     "OOP/Abstraction",
@@ -345,9 +347,7 @@
     "SQL/Theory side/THEORY SIDE 5.md",
     "SQL/Theory side/THEORY SIDE 4.md",
     "SQL/Theory side/THEORY SIDE 3.md",
-    "SQL/Theory side/THEORY SIDE 2.md",
     "SQL/Theory side",
-    "SQL/SQL.md",
     "SQL",
     "Untitled 1",
     "Q",
