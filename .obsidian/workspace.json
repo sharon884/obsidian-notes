@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/THEORY SIDE 8.md",
+                "file": "TypeScript/THEORY SIDE 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 8"
+              "title": "THEORY SIDE 9"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "TypeScript/THEORY SIDE 7.md",
     "TypeScript/THEORY SIDE 8.md",
+    "TypeScript/THEORY SIDE 9.md",
+    "TypeScript/THEORY SIDE 7.md",
     "TypeScript/THOERY SIDE 6.md",
     "TypeScript/THEORY SIDE 5.md",
     "TypeScript/THEORY SIDE 4.md",
@@ -346,7 +347,6 @@
     "MERN + DSA/React.md",
     "MERN + DSA/Mongo DB.md",
     "MERN + DSA/JS.md",
-    "MERN + DSA/DSA.md",
     "SQL/Theory side",
     "SQL",
     "Untitled 1",
