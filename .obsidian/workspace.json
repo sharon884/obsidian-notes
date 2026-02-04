@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/THEORY SIDE 9.md",
+                "file": "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 9"
+              "title": "METHOD OVERRIDING"
             }
           }
         ],
@@ -315,8 +315,10 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "TypeScript/THEORY SIDE 8.md",
+    "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
+    "OOP/4 Pillers/ENCAPSULATION.md",
     "TypeScript/THEORY SIDE 9.md",
+    "TypeScript/THEORY SIDE 8.md",
     "TypeScript/THEORY SIDE 7.md",
     "TypeScript/THOERY SIDE 6.md",
     "TypeScript/THEORY SIDE 5.md",
@@ -329,14 +331,12 @@
     "OOP/Abstraction/Abstraction.md",
     "OOP/Abstraction",
     "OOP/Abstraction/INTERFACE.md",
-    "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
     "OOP/Solid priciples basic idea.md",
     "OOP/4 Pillers/What is Coupling?.md",
     "OOP/4 Pillers/Polymorphism/METHOD OVERLOADING.md",
     "OOP/4 Pillers",
     "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
     "OOP/4 Pillers/Polymorphism",
-    "OOP/4 Pillers/ENCAPSULATION.md",
     "OOP/CLASS & OBJECT.md",
     "OOP/Object Oriented Programming in JavaScript.md",
     "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
