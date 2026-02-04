@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/THEORY SIDE 11.md",
+                "file": "TypeScript/THEORY SIDE 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 11"
+              "title": "THEORY SIDE 13"
             }
           }
         ],
@@ -315,8 +315,10 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "TypeScript/THEORY SIDE 10.md",
+    "TypeScript/THEORY SIDE 12.md",
+    "TypeScript/THEORY SIDE 13.md",
     "TypeScript/THEORY SIDE 11.md",
+    "TypeScript/THEORY SIDE 10.md",
     "TypeScript/THOERY SIDE 6.md",
     "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
     "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
@@ -344,9 +346,7 @@
     "SQL/COMPLETE SQL THEORY TOPICS YOU MUST STUDY.md",
     "OOP",
     "Interview/Javascript.md",
-    "Untitled.md",
     "DSA",
-    "MERN + DSA/React.md",
     "SQL/Theory side",
     "SQL",
     "Untitled 1",
