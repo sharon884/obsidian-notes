@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
+                "file": "TypeScript/THEORY SIDE 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "METHOD OVERRIDING"
+              "title": "THEORY SIDE 10"
             }
           }
         ],
@@ -315,12 +315,14 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "TypeScript/THOERY SIDE 6.md",
+    "TypeScript/THEORY SIDE 10.md",
+    "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
     "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
     "OOP/4 Pillers/ENCAPSULATION.md",
     "TypeScript/THEORY SIDE 9.md",
     "TypeScript/THEORY SIDE 8.md",
     "TypeScript/THEORY SIDE 7.md",
-    "TypeScript/THOERY SIDE 6.md",
     "TypeScript/THEORY SIDE 5.md",
     "TypeScript/THEORY SIDE 4.md",
     "TypeScript/THEORY SIDE 3.md",
@@ -335,7 +337,6 @@
     "OOP/4 Pillers/What is Coupling?.md",
     "OOP/4 Pillers/Polymorphism/METHOD OVERLOADING.md",
     "OOP/4 Pillers",
-    "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
     "OOP/4 Pillers/Polymorphism",
     "OOP/CLASS & OBJECT.md",
     "OOP/Object Oriented Programming in JavaScript.md",
@@ -346,7 +347,6 @@
     "DSA",
     "MERN + DSA/React.md",
     "MERN + DSA/Mongo DB.md",
-    "MERN + DSA/JS.md",
     "SQL/Theory side",
     "SQL",
     "Untitled 1",
