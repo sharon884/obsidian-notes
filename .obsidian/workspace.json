@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/THEORY SIDE 2.md",
+                "file": "TypeScript/THOERY SIDE 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 2"
+              "title": "THOERY SIDE 6"
             }
           }
         ],
@@ -315,6 +315,12 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "TypeScript/THEORY SIDE 5.md",
+    "TypeScript/THEORY SIDE 8.md",
+    "TypeScript/THEORY SIDE 7.md",
+    "TypeScript/THEORY SIDE 4.md",
+    "TypeScript/THEORY SIDE 3.md",
+    "TypeScript/THEORY SIDE 2.md",
     "TypeScript/THEORY SIDE 1.md",
     "TypeScript/THEORY SIDE 14.md",
     "TypeScript/THEORY SIDE 13.md",
@@ -326,12 +332,6 @@
     "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
     "OOP/4 Pillers/ENCAPSULATION.md",
     "TypeScript/THEORY SIDE 9.md",
-    "TypeScript/THEORY SIDE 8.md",
-    "TypeScript/THEORY SIDE 7.md",
-    "TypeScript/THEORY SIDE 5.md",
-    "TypeScript/THEORY SIDE 4.md",
-    "TypeScript/THEORY SIDE 3.md",
-    "TypeScript/THEORY SIDE 2.md",
     "OOP/4 Pillers/INHERITANCE.md",
     "TypeScript",
     "OOP/Abstraction/Abstraction.md",
