@@ -42,7 +42,9 @@
 
 ## TypeScript Strict Mode
 
-`let name: string;  name = null;       // ❌ Error name = undefined;  // ❌ Error`
+`let name: string;  name = null;       // ❌ Error 
+
+name = undefined;  // ❌ Error`
 
 You must **explicitly allow them**:
 
