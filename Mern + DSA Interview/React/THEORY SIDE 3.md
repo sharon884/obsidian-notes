@@ -1,4 +1,10 @@
 
+
+
+
+
+Declarative vs Imperative
+
 “In imperative programming, we manually update the UI step by step. In declarative programming, we describe what the UI should look like, and the framework handles the updates automatically.”
 
 

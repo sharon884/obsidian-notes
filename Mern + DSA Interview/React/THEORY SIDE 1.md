@@ -1,4 +1,8 @@
 
+
+
+
+What is React?
 ### What problem React solves (VERY IMPORTANT)
 
 Before React, in **plain JavaScript**:
