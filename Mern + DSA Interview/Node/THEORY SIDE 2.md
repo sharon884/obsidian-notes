@@ -10,6 +10,8 @@ When a request comes in, Node.js executes the JavaScript code on the **main thre
 Once the background operation completes, its callback or promise is placed in the **event queue**, and the **event loop** picks it up and executes it on the single main thread. This is how Node.js efficiently handles thousands of requests using one thread without blocking.
 
 
+
+
 ## Advantages of Node.js
 
 **Node.js** offers several advantages that make it popular for building modern backend applications.
@@ -36,3 +38,44 @@ Ideal for chat apps, live notifications, streaming, and collaborative tools.
 Lightweight and scalable, Node.js works well with microservice architectures.
 
 
+
+
+
+
+## Node.js as an Interpreter (V8)
+
+**Node.js** runs JavaScript code using Google’s **V8** engine. V8 is responsible for **executing JavaScript code**, and that’s why Node.js is often loosely referred to as an _interpreter_. However, technically, Node.js is **not a pure interpreter**.
+
+V8 **compiles JavaScript into machine code at runtime using Just-In-Time (JIT) compilation**, instead of interpreting it line by line. This makes Node.js **very fast**. Node.js provides the runtime environment (APIs like file system, networking, timers), while V8 handles **parsing, compiling, and executing JavaScript code**.
+
+
+
+
+
+## Difference between Interpreter and Compiler
+
+### Interpreter
+
+An **interpreter** executes code **line by line**, translating and running the program at the same time. It does not generate a separate executable file. If an error occurs, execution stops immediately at that line. Interpreted programs are usually **slower** but easier to debug.
+
+### Compiler
+
+A **compiler** translates the **entire source code at once** into machine code before execution. It generates a separate executable file. Errors are reported **after compilation**, and compiled programs generally **run faster**.
+
+
+|Feature|Interpreter|Compiler|
+|---|---|---|
+|Execution|Line by line|Whole program at once|
+|Output file|No|Yes (executable)|
+|Error handling|Stops at first error|Shows errors after compilation|
+|Speed|Slower|Faster|
+|Runtime dependency|Needs source code|Runs compiled code|
+|Examples|Python, Ruby (classic)|C, C++|
+
+
+
+
+
+## Node.js REPL
+
+**Node.js** provides a **REPL environment**, which stands for **Read–Eval–Print–Loop**. It is an interactive shell where you can write and execute JavaScript code **line by line** and immediately see the output. REPL is mainly used for **quick testing, debugging, and experimenting** with JavaScript and Node.js features without creating files.
