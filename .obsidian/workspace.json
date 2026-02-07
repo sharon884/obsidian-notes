@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MERN + DSA Concepts/Node Js.md",
+                "file": "Mern + DSA Interview/Node/THEORY SIDE 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node Js"
+              "title": "THEORY SIDE 2"
             }
           }
         ],
@@ -315,6 +315,10 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "Mern + DSA Interview/Node/THEORY SIDE 1.md",
+    "Mern + DSA Interview/Node/THEORY SIDE 2.md",
+    "MERN + DSA Concepts/Node Js.md",
+    "Mern + DSA Interview/Node",
     "Mern + DSA Interview/React/THEORY SIDE 6.md",
     "Mern + DSA Interview/React/THEORY SIDE 5.md",
     "Mern + DSA Interview/React/THEORY SIDE 4.md",
@@ -342,15 +346,11 @@
     "TypeScript/THOERY SIDE 6.md",
     "TypeScript/THEORY SIDE 7.md",
     "TypeScript/THEORY SIDE 5.md",
-    "TypeScript/THEORY SIDE 4.md",
-    "TypeScript/THEORY SIDE 3.md",
-    "TypeScript/THEORY SIDE 2.md",
     "TypeScript",
     "OOP/Abstraction",
     "OOP/4 Pillers",
     "OOP/4 Pillers/Polymorphism",
     "OOP",
-    "DSA",
     "javascript/js images/Pasted image 20250821131406.png",
     "javascript/js images/Pasted image 20250821131220.png",
     "javascript/js images/Pasted image 20250821123110.png",
