@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mern + DSA Interview/JS/JS 1.md",
+                "file": "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS 1"
+              "title": "How Asynchronous JavaScript Works Behind the Scenes"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "Mern + DSA Interview/JS/Synchronous and Asynchronous in JavaScript.md",
+    "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
     "MERN + DSA Concepts/JS.md",
-    "Mern + DSA Interview/JS/JS 1.md",
     "Mern + DSA Interview/JS",
     "Mern + DSA Interview/Untitled.md",
     "Mern + DSA Interview",
@@ -343,7 +344,6 @@
     "OOP/4 Pillers/Polymorphism/METHOD OVERLOADING.md",
     "OOP/4 Pillers/Polymorphism/METHOD OVERRIDING.md",
     "OOP/4 Pillers/Polymorphism/POLYMORPHISM.md",
-    "OOP/Solid priciples basic idea.md",
     "TypeScript",
     "OOP/Abstraction",
     "OOP/4 Pillers",
