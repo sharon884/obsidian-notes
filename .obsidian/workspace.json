@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mern + DSA Interview/Node/THEORY SIDE 3.md",
+                "file": "DSA/DSA week 1/problems/LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 3"
+              "title": "LinkedList"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "Mern + DSA Interview/Node/THEORY SIDE 2.md",
+    "MERN + DSA Concepts/DSA.md",
     "Mern + DSA Interview/Node/THEORY SIDE 3.md",
+    "Mern + DSA Interview/Node/THEORY SIDE 2.md",
     "Mern + DSA Interview/Node/THEORY SIDE 1.md",
     "MERN + DSA Concepts/Node Js.md",
     "Mern + DSA Interview/Node",
@@ -336,7 +337,6 @@
     "Mern + DSA Interview",
     "Untitled",
     "MERN + DSA Concepts/Mongo DB.md",
-    "MERN + DSA Concepts/DSA.md",
     "TypeScript/THEORY SIDE 14.md",
     "TypeScript/THEORY SIDE 13.md",
     "TypeScript/THEORY SIDE 12.md",
