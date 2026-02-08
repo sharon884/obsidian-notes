@@ -33,7 +33,7 @@ This document merges **all React concepts** from your list, DOCX files, and indu
     
 - setState (batching, async behavior)
     
-- Controlled components
+- Controlled    
     
 - Uncontrolled components
     

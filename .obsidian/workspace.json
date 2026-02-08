@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA week 1/problems/LinkedList.md",
+                "file": "MERN + DSA Concepts/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LinkedList"
+              "title": "React"
             }
           }
         ],
@@ -315,6 +315,7 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "DSA/DSA week 1/problems/LinkedList.md",
     "MERN + DSA Concepts/DSA.md",
     "Mern + DSA Interview/Node/THEORY SIDE 3.md",
     "Mern + DSA Interview/Node/THEORY SIDE 2.md",
@@ -345,7 +346,6 @@
     "TypeScript/THEORY SIDE 9.md",
     "TypeScript/THEORY SIDE 8.md",
     "TypeScript/THOERY SIDE 6.md",
-    "TypeScript/THEORY SIDE 7.md",
     "TypeScript",
     "OOP/Abstraction",
     "OOP/4 Pillers",
