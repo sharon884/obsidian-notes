@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA week 2/sorting algortihms code structure/Insertion sort example.md",
+                "file": "DSA/DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implementation with recursively.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insertion sort example"
+              "title": "Binary search tree implementation with recursively"
             }
           }
         ],
@@ -315,8 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "DSA/DSA week 2/Sorting algorithm concepts/Insertion Sort — Cheat Sheet.md",
+    "DSA/DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
     "DSA/DSA week 2/sorting algortihms code structure/Insertion sort example.md",
+    "DSA/DSA week 2/Sorting algorithm concepts/Insertion Sort — Cheat Sheet.md",
     "DSA/DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA/DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "DSA/DSA week 2/Sorting algorithm concepts/Bubble Sort Algorithm.md",
@@ -345,7 +346,6 @@
     "Untitled",
     "MERN + DSA Concepts/Mongo DB.md",
     "TypeScript/THEORY SIDE 14.md",
-    "TypeScript/THEORY SIDE 13.md",
     "TypeScript",
     "OOP/Abstraction",
     "OOP/4 Pillers",
