@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implementation with recursively.md",
+                "file": "DSA/DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary search tree implementation with recursively"
+              "title": "Stack using linkedlist"
             }
           }
         ],
@@ -315,6 +315,13 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "DSA/DSA week 1/problems/LinkedList.md",
+    "DSA/DSA week 1/DSA/Linked List.md",
+    "DSA/DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
+    "DSA/DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
+    "DSA/DSA week 2/Stack Data Structure/Stack Data Structure.md",
+    "DSA/DSA week 2/Stack Data Structure/Stack implementations/min stack.md",
+    "DSA/DSA week 3/implemenations/Binary serch tree implementations/Binary search tree implementation with recursively.md",
     "DSA/DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
     "DSA/DSA week 2/sorting algortihms code structure/Insertion sort example.md",
     "DSA/DSA week 2/Sorting algorithm concepts/Insertion Sort — Cheat Sheet.md",
@@ -323,7 +330,6 @@
     "DSA/DSA week 2/Sorting algorithm concepts/Bubble Sort Algorithm.md",
     "DSA/DSA week 2/Sorting algorithm concepts/basic sorting algorithms.md",
     "MERN + DSA Concepts/React.md",
-    "DSA/DSA week 1/problems/LinkedList.md",
     "MERN + DSA Concepts/DSA.md",
     "Mern + DSA Interview/Node/THEORY SIDE 3.md",
     "Mern + DSA Interview/Node/THEORY SIDE 2.md",
@@ -336,16 +342,10 @@
     "Mern + DSA Interview/React/THEORY SIDE 3.md",
     "Mern + DSA Interview/React/THEORY SIDE 1.md",
     "Mern + DSA Interview/React/THEROY SIDE 2.md",
-    "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
     "Mern + DSA Interview/React",
-    "Mern + DSA Interview/JS/Synchronous and Asynchronous in JavaScript.md",
-    "MERN + DSA Concepts/JS.md",
     "Mern + DSA Interview/JS",
-    "Mern + DSA Interview/Untitled.md",
     "Mern + DSA Interview",
     "Untitled",
-    "MERN + DSA Concepts/Mongo DB.md",
-    "TypeScript/THEORY SIDE 14.md",
     "TypeScript",
     "OOP/Abstraction",
     "OOP/4 Pillers",
