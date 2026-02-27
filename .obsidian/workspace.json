@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
+                "file": "Mern + DSA Interview/JS/Synchronous and Asynchronous in JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack using linkedlist"
+              "title": "Synchronous and Asynchronous in JavaScript"
             }
           }
         ],
@@ -315,9 +315,10 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
+    "DSA/DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
     "DSA/DSA week 1/problems/LinkedList.md",
     "DSA/DSA week 1/DSA/Linked List.md",
-    "DSA/DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
     "DSA/DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
     "DSA/DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA/DSA week 2/Stack Data Structure/Stack implementations/min stack.md",
@@ -341,7 +342,6 @@
     "Mern + DSA Interview/React/THEORY SIDE 4.md",
     "Mern + DSA Interview/React/THEORY SIDE 3.md",
     "Mern + DSA Interview/React/THEORY SIDE 1.md",
-    "Mern + DSA Interview/React/THEROY SIDE 2.md",
     "Mern + DSA Interview/React",
     "Mern + DSA Interview/JS",
     "Mern + DSA Interview",
