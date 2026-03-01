@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mern + DSA Interview/JS/Synchronous and Asynchronous in JavaScript.md",
+                "file": "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synchronous and Asynchronous in JavaScript"
+              "title": "How Asynchronous JavaScript Works Behind the Scenes"
             }
           }
         ],
@@ -315,10 +315,12 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
-    "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
-    "DSA/DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
+    "DSA/DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA/DSA week 1/problems/LinkedList.md",
     "DSA/DSA week 1/DSA/Linked List.md",
+    "Mern + DSA Interview/JS/Synchronous and Asynchronous in JavaScript.md",
+    "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
+    "DSA/DSA week 2/Stack Data Structure/Stack implementations/Stack using linkedlist.md",
     "DSA/DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
     "DSA/DSA week 2/Stack Data Structure/Stack Data Structure.md",
     "DSA/DSA week 2/Stack Data Structure/Stack implementations/min stack.md",
@@ -326,7 +328,6 @@
     "DSA/DSA week 3/DFS & BFS/DFS Traversal Cheat Sheet (Preorder, Inorder, Postorder).md",
     "DSA/DSA week 2/sorting algortihms code structure/Insertion sort example.md",
     "DSA/DSA week 2/Sorting algorithm concepts/Insertion Sort — Cheat Sheet.md",
-    "DSA/DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA/DSA week 2/sorting algortihms code structure/Bubble sort example.md",
     "DSA/DSA week 2/Sorting algorithm concepts/Bubble Sort Algorithm.md",
     "DSA/DSA week 2/Sorting algorithm concepts/basic sorting algorithms.md",
@@ -341,7 +342,6 @@
     "Mern + DSA Interview/React/THEORY SIDE 5.md",
     "Mern + DSA Interview/React/THEORY SIDE 4.md",
     "Mern + DSA Interview/React/THEORY SIDE 3.md",
-    "Mern + DSA Interview/React/THEORY SIDE 1.md",
     "Mern + DSA Interview/React",
     "Mern + DSA Interview/JS",
     "Mern + DSA Interview",
