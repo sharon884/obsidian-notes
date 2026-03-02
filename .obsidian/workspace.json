@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP/4 Pillers/ENCAPSULATION.md",
+                "file": "OOP/Solid principles/SRP - SINGLE RESPONSIBILITY PRINCIPLE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENCAPSULATION"
+              "title": "SRP - SINGLE RESPONSIBILITY PRINCIPLE"
             }
           }
         ],
@@ -315,11 +315,14 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "OOP/CLASS & OBJECT.md",
+    "OOP/Solid principles/SRP - SINGLE RESPONSIBILITY PRINCIPLE.md",
+    "OOP/Solid principles/Solid priciples basic idea.md",
+    "OOP/Solid principles",
+    "OOP/4 Pillers/ENCAPSULATION.md",
     "OOP/why OOP ?.md",
     "OOP/Object Oriented Programming in JavaScript.md",
-    "OOP/Solid priciples basic idea.md",
     "Mern + DSA Interview/JS/Synchronous and Asynchronous in JavaScript.md",
-    "OOP/CLASS & OBJECT.md",
     "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
     "DSA/DSA week 2/sorting algortihms code structure/Merge sort example.md",
     "DSA/DSA week 1/problems/LinkedList.md",
@@ -339,8 +342,6 @@
     "MERN + DSA Concepts/DSA.md",
     "Mern + DSA Interview/Node/THEORY SIDE 3.md",
     "Mern + DSA Interview/Node/THEORY SIDE 2.md",
-    "Mern + DSA Interview/Node/THEORY SIDE 1.md",
-    "MERN + DSA Concepts/Node Js.md",
     "Mern + DSA Interview/Node",
     "Mern + DSA Interview/React",
     "Mern + DSA Interview/JS",
@@ -350,7 +351,6 @@
     "OOP/Abstraction",
     "OOP/4 Pillers",
     "OOP/4 Pillers/Polymorphism",
-    "OOP",
     "javascript/js images/Pasted image 20250821131406.png",
     "javascript/js images/Pasted image 20250821131220.png",
     "javascript/js images/Pasted image 20250821123110.png",
