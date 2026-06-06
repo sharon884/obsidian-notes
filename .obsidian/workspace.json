@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/THEORY SIDE 3.md",
+                "file": "DSA/DSA week 2/sorting algortihms code structure/Merge sort example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THEORY SIDE 3"
+              "title": "Merge sort example"
             }
           }
         ],
@@ -315,9 +315,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "TypeScript/THEORY SIDE 3.md",
     "TypeScript/THEORY SIDE 2.md",
     "TypeScript/THEORY SIDE 1.md",
-    "TypeScript/THEORY SIDE 3.md",
     "TypeScript/THOERY SIDE 6.md",
     "TypeScript/THEORY SIDE 4.md",
     "TypeScript/THEORY SIDE 5.md",
