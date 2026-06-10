@@ -87,7 +87,15 @@
 
 ## 🔹 Spread & Rest
 
-`// Spread let arr = [1, 2, 3]; let copy = [...arr]; // [1,2,3]  // Rest function sum(...nums) {   return nums.reduce((a,b) => a+b, 0); } console.log(sum(1,2,3)); // 6`
+`// Spread let arr = [1, 2, 3];
+let copy = [...arr]; // [1,2,3]  
+
+
+// Rest function sum(...nums) {
+
+return nums.reduce((a,b) => a+b, 0);
+
+} console.log(sum(1,2,3)); // 6`
 
 
 
