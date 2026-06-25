@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MERN + DSA Concepts/JS.md",
+                "file": "javascript/js easy array questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS"
+              "title": "js easy array questions"
             }
           }
         ],
@@ -316,6 +316,7 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "MERN + DSA Concepts/JS.md",
     "Mern + DSA Interview/React/THEORY SIDE 5.md",
     "Mern + DSA Interview/React/THEORY SIDE 3.md",
     "Mern + DSA Interview/React/THEORY SIDE 1.md",
@@ -341,7 +342,6 @@
     "TypeScript/THEORY SIDE 9.md",
     "TypeScript/THEORY SIDE 10.md",
     "TypeScript/THEORY SIDE 11.md",
-    "TypeScript/THEORY SIDE 12.md",
     "OOP/Solid principles",
     "Mern + DSA Interview/Node",
     "Mern + DSA Interview/React",
