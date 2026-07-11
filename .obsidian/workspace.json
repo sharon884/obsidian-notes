@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA week 2/Queue data structure/QUEUE CHEAT SHEET.md",
+                "file": "DSA/DSA week 3/Tree/Tree Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QUEUE CHEAT SHEET"
+              "title": "Tree Terminology"
             }
           }
         ],
@@ -316,6 +316,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "DSA/DSA week 3/Tree/Tree Data Structure.md",
+    "DSA/DSA week 3/Tree/basic documentation about the tree.md",
+    "DSA/DSA week 2/Queue data structure/QUEUE CHEAT SHEET.md",
     "DSA/DSA week 2/Queue data structure/Queue Data Structure.md",
     "DSA/DSA week 2/Queue data structure/Queue in Real Systems (like Node.js).md",
     "DSA/DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
@@ -339,9 +342,6 @@
     "TypeScript/THEORY SIDE 11.md",
     "TypeScript/THEORY SIDE 9.md",
     "TypeScript/THEORY SIDE 8.md",
-    "TypeScript/THEORY SIDE 7.md",
-    "TypeScript/THEORY SIDE 5.md",
-    "javascript/js easy array questions.md",
     "OOP/Solid principles",
     "Mern + DSA Interview/Node",
     "Mern + DSA Interview/React",
