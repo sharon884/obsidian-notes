@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA week 3/implemenations/General tree implementations/General Tree implementation.md",
+                "file": "javascript/Event propagtion & three phases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Tree implementation"
+              "title": "Event propagtion & three phases"
             }
           }
         ],
@@ -316,6 +316,16 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "javascript/Dom & Bom.md",
+    "javascript/Data types.md",
+    "javascript/Constructor & new.md",
+    "javascript/Commonly Used JavaScript Math Methods.md",
+    "javascript/Coding Style.md",
+    "javascript/Closure.md",
+    "javascript/Basic operators, maths.md",
+    "Mern + DSA Interview/JS/Synchronous and Asynchronous in JavaScript.md",
+    "Mern + DSA Interview/JS/How Asynchronous JavaScript Works Behind the Scenes.md",
+    "DSA/DSA week 3/implemenations/General tree implementations/General Tree implementation.md",
     "DSA/DSA week 3/Trie/Trie Data Structure.md",
     "DSA/DSA week 3/Tree/what is Tree.md",
     "DSA/DSA week 3/Tree/Tree Terminology Quiz.md",
@@ -332,16 +342,6 @@
     "DSA/DSA week 1/problems/LinkedList.md",
     "DSA/DSA week 1/DSA/Linked List.md",
     "MERN + DSA Concepts/React.md",
-    "MERN + DSA Concepts/Node Js.md",
-    "MERN + DSA Concepts/Mongo DB.md",
-    "MERN + DSA Concepts/JS.md",
-    "MERN + DSA Concepts/DSA.md",
-    "TypeScript/THOERY SIDE 6.md",
-    "TypeScript/THEORY SIDE 4.md",
-    "TypeScript/THEORY SIDE 3.md",
-    "TypeScript/THEORY SIDE 2.md",
-    "TypeScript/THEORY SIDE 1.md",
-    "TypeScript/THEORY SIDE 13.md",
     "OOP/Solid principles",
     "Mern + DSA Interview/Node",
     "Mern + DSA Interview/React",
