@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MERN + DSA Concepts/React.md",
+                "file": "Quick Notes/J S.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "J S"
             }
           }
         ],
@@ -316,6 +316,9 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "MERN + DSA Concepts/React.md",
+    "Quick Notes/J S.md",
+    "Quick Notes",
     "MERN + DSA Concepts/Node Js.md",
     "MERN + DSA Concepts/Mongo DB.md",
     "MERN + DSA Concepts/DSA.md",
@@ -340,8 +343,6 @@
     "DSA/DSA week 2/Queue data structure/QUEUE CHEAT SHEET.md",
     "DSA/DSA week 2/Queue data structure/Queue Data Structure.md",
     "DSA/DSA week 2/Queue data structure/Queue in Real Systems (like Node.js).md",
-    "DSA/DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
-    "DSA/DSA week 2/DSA with real-world systems.md",
     "OOP/Solid principles",
     "Mern + DSA Interview/Node",
     "Mern + DSA Interview/React",
@@ -351,7 +352,6 @@
     "TypeScript",
     "OOP/Abstraction",
     "OOP/4 Pillers",
-    "OOP/4 Pillers/Polymorphism",
     "javascript/js images/Pasted image 20250821131406.png",
     "javascript/js images/Pasted image 20250821131220.png",
     "javascript/js images/Pasted image 20250821123110.png",
