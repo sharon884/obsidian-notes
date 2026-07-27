@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Event propagtion & three phases.md",
+                "file": "MERN + DSA Concepts/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event propagtion & three phases"
+              "title": "React"
             }
           }
         ],
@@ -316,6 +316,11 @@
   },
   "active": "b99ba533915d1ceb",
   "lastOpenFiles": [
+    "MERN + DSA Concepts/Node Js.md",
+    "MERN + DSA Concepts/Mongo DB.md",
+    "MERN + DSA Concepts/DSA.md",
+    "MERN + DSA Concepts/JS.md",
+    "javascript/Event propagtion & three phases.md",
     "javascript/Dom & Bom.md",
     "javascript/Data types.md",
     "javascript/Constructor & new.md",
@@ -337,11 +342,6 @@
     "DSA/DSA week 2/Queue data structure/Queue in Real Systems (like Node.js).md",
     "DSA/DSA week 2/Queue data structure/What is a Queue in Real Life?.md",
     "DSA/DSA week 2/DSA with real-world systems.md",
-    "DSA/DSA week 2/Stack Data Structure/Stack implementations/stack data structure example.md",
-    "DSA/DSA week 2/Stack Data Structure/Monotonic Stack/Monotonic Stack.md",
-    "DSA/DSA week 1/problems/LinkedList.md",
-    "DSA/DSA week 1/DSA/Linked List.md",
-    "MERN + DSA Concepts/React.md",
     "OOP/Solid principles",
     "Mern + DSA Interview/Node",
     "Mern + DSA Interview/React",
