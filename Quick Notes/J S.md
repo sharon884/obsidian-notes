@@ -104,3 +104,21 @@ A prototype is an object linked to another object. When a property or method is 
 
 
 The prototype chain is JavaScript's mechanism for property lookup. When a property or method isn't found on an object, JavaScript checks the object's prototype. If it's still not found, it continues checking each prototype in the chain until it either finds the property or reaches `null`, which marks the end of the chain.
+
+
+### Constructor Function
+
+> A constructor function is a regular JavaScript function intended to create and initialize multiple objects with the same structure. When called with the `new` keyword, it creates a new object, initializes it through `this`, links it to the constructor's prototype, and returns it.
+
+### `new` Keyword
+
+> The `new` keyword creates a new object, links it to the constructor's prototype, binds `this` to that new object, executes the constructor function, and automatically returns the created object (unless the constructor explicitly returns another object).
+
+---
+
+### `this`
+
+> `this` is a special keyword whose value depends on **how a function is invoked**. It does not belong to the function itself. In a constructor called with `new`, `this` refers to the newly created object.
+
+---
+
