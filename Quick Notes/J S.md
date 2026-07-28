@@ -95,3 +95,12 @@ There are **2 types**:
 1. **Implicit Type Coercion** (Automatic)
 2. **Explicit Type Conversion** (Manual)
 Type coercion is the automatic conversion of one data type to another by JavaScript when an operation requires compatible types. For example, `+` may convert values to strings for concatenation, while operators like `-`, `*`, and `/` usually convert values to numbers. Developers can also perform explicit type conversion using functions such as `Number()`, `String()`, and `Boolean()`.
+
+
+# What is a Prototype?
+
+A **prototype is another object that JavaScript uses as a backup** when the current object doesn't contain the property or method you're trying to access.
+A prototype is an object linked to another object. When a property or method is not found on the object itself, JavaScript automatically searches for it in the object's prototype. This mechanism enables inheritance and allows multiple objects to share methods efficiently, reducing memory usage.
+
+
+The prototype chain is JavaScript's mechanism for property lookup. When a property or method isn't found on an object, JavaScript checks the object's prototype. If it's still not found, it continues checking each prototype in the chain until it either finds the property or reaches `null`, which marks the end of the chain.
