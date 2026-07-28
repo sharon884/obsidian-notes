@@ -122,3 +122,6 @@ The prototype chain is JavaScript's mechanism for property lookup. When a proper
 
 ---
 
+
+
+Both constructor functions and classes use the same underlying idea. Instead of manually creating multiple objects with the same structure, we create a blueprint. We then use the `new` keyword to create a new object from that blueprint. During object creation, the constructor function (or the `constructor` method in a class) initializes the object's properties using `this`. The `new` keyword creates the new object, links it to the constructor's prototype, binds `this` to the newly created object, executes the constructor, and finally returns the object.
