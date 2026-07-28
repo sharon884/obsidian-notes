@@ -125,3 +125,10 @@ The prototype chain is JavaScript's mechanism for property lookup. When a proper
 
 
 Both constructor functions and classes use the same underlying idea. Instead of manually creating multiple objects with the same structure, we create a blueprint. We then use the `new` keyword to create a new object from that blueprint. During object creation, the constructor function (or the `constructor` method in a class) initializes the object's properties using `this`. The `new` keyword creates the new object, links it to the constructor's prototype, binds `this` to the newly created object, executes the constructor, and finally returns the object.
+
+
+> **"Why do JavaScript classes use prototypes?"**
+
+A strong answer would be:
+
+> "JavaScript uses prototypes to share methods among all instances of a constructor or class. Instead of creating a separate copy of each method for every object, methods are stored once on the constructor's prototype. When an instance calls a method, JavaScript first checks the instance itself, and if the method isn't found, it follows the prototype chain to the constructor's prototype. This reduces memory usage and enables inheritance."
