@@ -135,3 +135,19 @@ A strong answer would be:
 
 
 "In session authentication, after a successful login the server creates a session and stores the user's data on the server. The browser stores only a session ID in a cookie, and each request includes that ID so the server can retrieve the session. In JWT authentication, the server generates a signed token containing user claims and sends it to the client. The client sends the token with future requests, and the server validates the token's signature instead of looking up session state. Sessions are stateful because the server stores user state, while JWT authentication is stateless because the server doesn't need to maintain per-user session data."
+
+
+
+| Option       | Think of it as                                           | Protects Against                   |
+| ------------ | -------------------------------------------------------- | ---------------------------------- |
+| **HttpOnly** | "JavaScript can't touch my cookie."                      | XSS (cookie theft)                 |
+| **Secure**   | "Only travel on HTTPS."                                  | Sending cookies over insecure HTTP |
+| **SameSite** | "Don't send my cookie to other websites unless allowed." | CSRF                               |
+
+
+|Local Storage|Session Storage|
+|---|---|
+|Permanent until cleared|Lives only for the current tab/session|
+|Shared across tabs of the same origin|Separate for each tab|
+|5–10 MB|5–10 MB|
+|JS can access|JS can access|
