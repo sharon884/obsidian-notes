@@ -132,3 +132,6 @@ Both constructor functions and classes use the same underlying idea. Instead of 
 A strong answer would be:
 
 > "JavaScript uses prototypes to share methods among all instances of a constructor or class. Instead of creating a separate copy of each method for every object, methods are stored once on the constructor's prototype. When an instance calls a method, JavaScript first checks the instance itself, and if the method isn't found, it follows the prototype chain to the constructor's prototype. This reduces memory usage and enables inheritance."
+
+
+"In session authentication, after a successful login the server creates a session and stores the user's data on the server. The browser stores only a session ID in a cookie, and each request includes that ID so the server can retrieve the session. In JWT authentication, the server generates a signed token containing user claims and sends it to the client. The client sends the token with future requests, and the server validates the token's signature instead of looking up session state. Sessions are stateful because the server stores user state, while JWT authentication is stateless because the server doesn't need to maintain per-user session data."
